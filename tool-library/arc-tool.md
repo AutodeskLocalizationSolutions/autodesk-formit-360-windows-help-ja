@@ -1,18 +1,20 @@
-### Arc Tool
+
+
+### 円弧ツール
 
 ---
-> Use the arc tool to create half circles or symetrical arcs.
+
+> 半円や左右対称の円弧を作成するには、円弧ツールを使用します。
 
 ---
 
-An arc is defined by three points and can be draw on the X, Y and Z axes. Define your first point then determine a distance from the first to the second point and finally a third point for the height of the arc. You will automatically be provided a 'half-circle' point which you can snap to; beyond this the arc line will extend past the first two points.
+円弧を作成するには、3 つの点を指定します。X 軸、Y 軸、Z 軸上で円弧を描画することができます。最初の点を指定したら、その点から次の点までの距離を決定し、3 つ目の点を指定して円弧の高さを決定します。スナップ先となる半円の点が自動的に表示され、この点にスナップすると、最初に指定した 2 つの点を結ぶ線を直径とする円弧が作成されます。
 
-
-You can see the length between the first point and the second point as you're determining the second points next location; to manually specify a length press **tab**. 
+2 つ目の点の次の位置を指定する際に、最初の点と 2 つ目の点との距離を確認することができます。この距離を手動で指定するには、**[Tab]キー**を押します。
 
 ![](images/arc tool 1.png)
 
 ![](images/arc tool 2.png)
 
-After drawing the arc You can make a face by then using the [line tool](../tool-library/line-tool.md) to connected point 1 and point 2.
+円弧を描画したら、[線分ツール](line-tool.md)を使用して、最初の点と 2 番目の点を接続して面を作成することができます。
 

@@ -1,10 +1,14 @@
-### Rotate
----
-> Change the orientation of objects.
+
+
+### 回転する
 
 ---
 
-Select elements and right click to access the rotate tool from the Context Menu. A protractor graphic will appear on your mouse, click to set the plane for rotation. You can use the blue grips to specify the start point of the rotation, and reset the axis if necessary. Use the arrows or the editable dimension box to set the rotation angle. Note that you can use the Q key to access the rotate tool after selecting an element.
+> オブジェクトの向きを変えることができます。
 
-![](images/rotate tool.png)
-![](images/rotate.PNG)
+---
+
+要素を選択して右クリックし、コンテキスト メニューで回転ツールを選択します。マウスを操作して分度器グラフィックを表示し、クリック操作で平面図を回転用に設定します。回転の始点を指定するには、青いグリップを使用します。必要に応じて、軸をリセットすることができます。矢印または編集可能な寸法ボックスを使用して、回転角度を設定します。要素を選択した後で[Q]キーを押しても、回転ツールにアクセスすることができます。
+
+![](images/rotate tool.png) ![](images/rotate.PNG)
+

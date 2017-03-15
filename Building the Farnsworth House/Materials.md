@@ -1,43 +1,50 @@
-###Materials
----
-> As we saw in the last exercise, you can apply materials to faces in FormIt. In this exercise you will create and edit your own materials and import materials from the Autodesk Materials library.
+
+
+### マテリアル
 
 ---
 
-#### Create the glass walls
-1. Use the [**Rectangle-Tool-(R)**](../tool-library/rectangle-tool.md) to create another surface on top of the floor, **28'-8" x 55'-5 ½"**.
+> 直前の演習で説明したように、FormIt では、面にマテリアルを適用することができます。この演習では、自分専用のマテリアルを作成して編集する方法と、Autodesk Materials Library からマテリアルを読み込む方法について説明します。
 
-2. Pull the new surface up **11'-2"**.
-
-3. Group it and name it **Glass Walls**.
-
-4. Right click on the top face and choose the [**Offset-Face-tool-(OF)**](../tool-library/extrude-cut-and-offset-faces.md).
-
-5. Press **Tab** and type in **4"**. ![](./images/e4e0493a-36f3-488e-9df1-f0daa1dcf407.png)
-
-#### Import a New Material
 ---
-1. Edit the **Glass Walls group** by double-clicking.
 
-2. Select the [**Materials Palette**](../formit-introduction/tool-bars.md).
+#### ガラス壁を作成する
 
-3. Click the **Import Materials button**. <br>
-     ![](./images/00cac281-dff8-4ff3-8ba3-c13bb868ebc1.png)
+1. [**長方形ツール(R)**](../tool-library/rectangle-tool.md)を使用して、床の上に別のサーフェスを作成します(**28'-8" x 55'-5 ½"**)。
 
-4. From the Materials Library, choose **Glazing** from the menu and then choose **Blue Reflective**. ![](./images/63c0bcfa-98af-48ec-ac30-44fbed8c802b.png)
+2. 作成したサーフェスを **11'-2"** の位置まで引き上げます。
 
-5. **Right-click** on the Blue Reflective material you just imported and choose **Paint with Material**. **Double-click the Glass Walls group** to apply the material.
+3. サーフェスをグループ化して「**Glass Walls**」という名前を付けます。
 
-**Note**: *Much like undo/redo, materials are applied and edited on a per group basis.*
+4. 上部サーフェスを右クリックして[**面のオフセット ツール(OF)**](../tool-library/extrude-cut-and-offset-faces.md)を選択します。
 
-1. **Copy the Floor 1 Group** to create the roof by holding the **Ctrl key** down while **dragging** the group. ![](./images/d6793055-4c50-4e96-a44e-15e5cfeeea83.png)
+5. **[Tab]キー**を押して「**4"**」を入力します。![](images/e4e0493a-36f3-488e-9df1-f0daa1dcf407.png)
 
-2. Make the copied Group unique, edit it and name it **Roof**. Import and paint the Roof with the material **Concrete &gt; White**.
+#### 新しいマテリアルを読み込む
 
-3. Create the lower terrace by following the plan and using the Rectangle tool ( R ) **55' 3" long and 22'-7 3/4" wide** and extruding it **1'**. Group this and name it **Lower Terrace**.
+---
 
-4. Move it **2'-2"** off the ground.
+1. **[Glass Walls]グループ**をダブルクリックして編集します。
 
-5. Import and paint the Floor 1 and Lower Terrace with the material **Stone &gt; Travertine**.
+2. [**マテリアル パレット**](../formit-introduction/tool-bars.md)を選択します。
 
-6. Edit the Travertine material in both groups. Click the **Color value** and change it to **190** to lighten the effect of the material. ![](./images/7d23f82c-2f5f-4e09-b3bf-24841cccbd0a.png)
+3. **[マテリアルを読み込む]ボタン**を選択します。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/00cac281-dff8-4ff3-8ba3-c13bb868ebc1.png)
+
+4. Materials Library のメニューで**[ガラス]**を選択し、次に**[青 反射]**を選択します。![](images/63c0bcfa-98af-48ec-ac30-44fbed8c802b.png)
+
+5. 読み込んだ[青 反射]マテリアルを**右クリック**して**[マテリアルによるペイント]**を選択します。 次に、**[Glass Walls]グループをダブルクリック**してマテリアルを適用します。
+
+**注**: *[元に戻す]操作や[やり直し]操作と同様に、マテリアルの適用と編集はグループ単位で実行されます。*
+
+1. **[Floor 1]グループをコピー**し、そのコピーを**[Ctrl]キー**を押しながら**ドラッグ**します。![](images/d6793055-4c50-4e96-a44e-15e5cfeeea83.png)
+
+2. コピーしたグループをユニークなグループにして、「**Roof**」という名前を付けます。 マテリアルの**[コンクリート] > [白]**を使用して、床の読み込みとペイントを実行します。
+
+3. 平面図に従い、長方形ツール(R)を使用して、**長さ 55' 3"、幅 22'-7 3/4"** のテラスを作成し、そのテラスを **1'** だけ押し出します。 次に、このテラスをグループ化して「**Lower Terrace**」という名前を付けます。
+
+4. テラスを、地面から **2'-2"** の距離に移動します。
+
+5. マテリアルの**[石] > [石灰華]**を使用して、[Floor 1]グループと[Lower Terrace]グループの読み込みとペイントを実行します。
+
+6. 両方のグループで、[石灰華]マテリアルを編集します。**[色の値]**をクリックして、値を **190** に変更します。これにより、マテリアルの色が明るくなります。![](images/7d23f82c-2f5f-4e09-b3bf-24841cccbd0a.png)
+

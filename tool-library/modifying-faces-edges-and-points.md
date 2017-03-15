@@ -1,39 +1,36 @@
-### Modifying Faces, Edges and Points
----
 
-> Things get really interesting when you start to push and pull the
-objects you have placed. Single click will allow you to select a single
-face, edge or, different than older version of FormIt, a corner or
-point. 
+
+### 面、エッジ、点の修正
 
 ---
 
-#### Modifying Faces
+> 配置したオブジェクトをプッシュ操作やプル操作で変更する方法を理解すると、さまざまな操作を実行できるようになります。旧バージョンの FormIt とは異なり、単一の面、エッジ、点をシングルクリックで選択できるようになりました。
 
-1. [**Single click one**](../tool-library/select-edge-face-or-object.md) of the faces of the objects.
+---
 
-2. You can immediately drag that face to **push** or **pull** it. There is no need to invoke a separate tool. You can use the **snapping** to snap this face aligned with other objects in the scene.
+#### 面を修正する
 
-3. As with move, you can click the **temporary dimension** or use **Tab
-key** to define the amount of move.
-![](./images/b61b2045-21a9-434b-b806-6cfa16e94fdd.png)
-4. You can also delete a face by using **Delete key**: **Right click &gt; X button**.
+1. オブジェクトのいずれかの面を[**シングルクリックで選択**](select-edge-face-or-object.md)します。
 
-#### Modifying Edges
+2. 選択した面をドラッグして、**プッシュ**操作(面を押し込む操作)や**プル**操作(面を引き出す操作)をすぐに実行することができます。 個別のツールを起動する必要はありません。**スナップ機能**を使用して、シーン内の他のオブジェクトに合わせて面をスナップすることができます。
 
-1. Single click one of the edges of one of the cubes.
+3. 面を移動する場合は、**仮寸法**をクリックするか**[Tab]キー**を使用して、移動する距離を指定します。![](images/b61b2045-21a9-434b-b806-6cfa16e94fdd.png)
 
-2. You can now drag the edge along one of the axes to redefine the shape.
-![](./images/934b206f-0d73-4530-b89f-e9b0181e2a55.png)
+4. **[Delete]キー**を使用して面を削除することもできます。または、面を**右クリックして[X]ボタン**を選択しても、面を削除することができます。
+#### エッジを修正する
 
-3. You can also delete an edge by:
-    - Pressing **Delete key**
-    - **Right click &gt; X button**
+1. 任意の立方体のいずれかのエッジをシングルクリックします。
 
-#### Modifying Points
+2. いずれかの軸に沿ってエッジをドラッグして形状を変更します。![](images/934b206f-0d73-4530-b89f-e9b0181e2a55.png)
 
-1. [Single click](../tool-library/select-edge-face-or-object.md) one of the corners of one of the cubes.
+3. 以下の操作により、エッジを削除することもできます。
 
-2. Similar to an edge, you drag the point along one of the axes to
-redefine the shape. ![](./images/439874f1-e07d-4d45-9574-f52ce2761536.png)
+* エッジを選択して**[Delete]キー**を押す。
+* エッジを**右クリックして[X]ボタンをクリックする**。
+
+#### 点を修正する
+
+1. 任意の立方体のいずれかの角を[シングルクリック](select-edge-face-or-object.md)します。
+
+2. エッジの場合と同様に、いずれかの軸に沿って点をドラッグして形状を変更します。![](images/439874f1-e07d-4d45-9574-f52ce2761536.png)
 

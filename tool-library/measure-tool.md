@@ -1,14 +1,15 @@
-### Measure Tool
+
+
+### 計測ツール
 
 ---
-> The measure tool is located on the [Action Tool Bar](../formit-introduction/tool-bars.md).
+
+> 計測ツールは、[アクション ツールバー](../formit-introduction/tool-bars.md)に組み込まれています。
 
 ---
 
-The measure tool is used to measure geometry that has been previously modeled. You can also use the measure to drive drive dimensions of geometry.
+計測ツールを使用して、既にモデル化されているジオメトリを計測することができます。また、計測した値を使用して、ジオメトリの寸法を調整することもできます。
 
-1. Select the measure tool and measure between two points.
-2. Select face or edge you want to change the length of then click the number and imput a new length.
-![](images/measure 1.png)
-![](images/measure 2.png)
-![](images/measure 3.png)
+1. 計測ツールを選択して、2 点間の距離を計測します。
+2. 長さを変更する面またはエッジを選択し、数値をクリックして新しい長さを入力します。![](images/measure 1.png) ![](images/measure 2.png) ![](images/measure 3.png)
+

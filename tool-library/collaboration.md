@@ -1,26 +1,28 @@
-### Collaboration
+
+
+### コラボレーション
+
 ---
 
-> And now for “one last thing!” Real time collaboration. FormIt allows multiple users (on any combination of iOS or Web clients) to collaboratively edit a FormIt model – while seeing all of their changes in real time!
+> 最後に、リアルタイム コラボレーションについて説明します。 FormIt では、iOS クライアントや Web クライアントを自由に組み合わせて、自分が行った変更内容をリアルタイムで確認しながら、複数のユーザが同じ FormIt モデルを同時に編集することができます。
 
 ---
 
-With a FormIt 360 Pro subscription you have access to the Real-time Collaboration feature which allows you to:
-- Start a collaboration session and invite colleagues, or clients who do not need to be Pro to join.
-- Join a collaboration from the Windows, web, or mobile apps - all you need is an A360 log-in.
-- Charette with colleagues to explore designs in a shared sandbox environment.
-- Follow another collaborator's camera to see the model from their viewpoint.
-- Let a client follow your camera as you drive them through the design.
-- Chat with collaborators in the session.
-- [Purchase a Pro subscription now.](http://www.autodesk.com/store/products/formit-360-pro?licenseType=cloudSub&term=1month&support=basic)
+FormIt 360 Pro Subscription を購入している場合は、リアルタイム コラボレーション機能を使用して次の操作を行うことができます。
 
+* コラボレーション セッションを開始し、他のメンバーやクライアントをそのセッションに招待する(Pro Subscription を購入していないユーザも招待することができます)。
+* Windows アプリケーション、Web アプリケーション、モバイル アプリケーションからコラボレーションに参加する(A360 にログインするだけで、これらのアプリケーションからコラボレーションに参加することができます)。
+* 他のメンバーと協力して、共有サンドボックス環境内で設計を検証する。
+* コラボレーションに参加している他のメンバーのカメラをフォローして、そのメンバーの視点でモデルを表示する。
+* 自分のカメラをクライアントにフォローさせ、設計内を移動する。
+* セッション内で他のメンバーとチャットする。
+* ぜひ、[Pro Subscription の購入をご検討ください](http://www.autodesk.com/store/products/formit-360-pro?licenseType=cloudSub&term=1month&support=basic)。
 
-#### Start a Collaboration Session
+#### コラボレーション セッションを開始する
 
-1. Start a session – this will start a collaboration session. 
-![](./images/6c166d38-6851-4d62-b2dc-8f83efd958f8.png)
+1. セッションの開始アイコンをクリックすると、コラボレーション セッションが開始されます。![](images/6c166d38-6851-4d62-b2dc-8f83efd958f8.png)
 
-2. You can now email a link to a colleague. When they open the link, they will be asked to log into A360 and then you can start collaborating immediately. 
-![](./images/0b10d035-0145-4762-aaeb-3d4d628cc4a7.png)
+2. コラボレーション セッションが開始されると、他のメンバーに電子メールでリンクを送信できるようになります。電子メールを受信したメンバーがそのリンクをクリックすると、A360 にログインするかどうかを尋ねる画面が表示されます。この状態になったら、すぐにコラボレーションを開始することができます。![](images/0b10d035-0145-4762-aaeb-3d4d628cc4a7.png)
 
-3. To see this in action, visit this link: <http://formit.autodesk.com/blog/2014/12/04/design-is-a-team-sport-ios-version/>.
+3. この動作を実際に確認するには、[http://formit.autodesk.com/blog/2014/12/04/design-is-a-team-sport-ios-version/](http://formit.autodesk.com/blog/2014/12/04/design-is-a-team-sport-ios-version/) を参照してください。
+

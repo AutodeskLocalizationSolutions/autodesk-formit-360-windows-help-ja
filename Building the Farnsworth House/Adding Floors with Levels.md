@@ -1,18 +1,20 @@
-###Levels
----
->Levels allow you to slice masses into individual floors and calculate
-gross area for the entire project - or by building. Levels will
-translate to Revit when the file is converted.
+
+
+### レベル
 
 ---
 
-#### Create, Edit, and Apply Levels
-1. You can create new levels using the [**Level Palette**](../formit-introduction/tool-bars.md) in the **Palette Bar**.
+> レベルを使用してマスを個々の床に分割し、プロジェクト全体の総面積を計算したり、建物ごとの面積を計算することができます。ファイルを変換すると、レベルが Revit 用に変換されます。
 
-2. Click **+** (**Add Level**) four times to add a single Level at **0’-0", 2'-2" , 4’-6" **and** 15’-8"** (you can also click the **++** icon to create multiple levels – handy for tall buildings).
+---
 
-3. **Edit the Level name** by clicking on the name. Name them **Level 1, Terrace, Floor 1, **and** Top of Cornice** – these level names will now translate into Revit.
-![](./images/9e8a88d9-1eef-4f5e-9061-5aa8f5319067.png)
+#### レベルを作成、編集、および適用する
 
-4. Select the **main massing** and in the [**Properties Palette**](../formit-introduction/tool-bars.md), click **Apply Levels** and only check Main Floor. The Properties Palette now reads the area of this mass. 
-**![](./images/8b2036b8-b627-44a2-ada8-b901cdb380d2.png)**
+1. [**パレット バー**](../formit-introduction/tool-bars.md)の**レベル パレット**を使用して、新しいレベルを使用することができます。
+
+2. **[+]** (**レベルを追加**)を 4 回クリックして、1 つのレベルをそれぞれ **0'-0"、2'-2"、4'-6"**、**15'-8"** で追加します(**[++]**アイコンをクリックして、複数のレベルを作成することもできます。高い建物の場合に便利です)。
+
+3. レベルの名前をクリックして**レベル名を編集**します。 各レベルに、**Level 1、Terrace、Floor 1、****Top of Cornice** という名前を付けます。これらのレベル名が Revit 用に変換されます。![](images/9e8a88d9-1eef-4f5e-9061-5aa8f5319067.png)
+
+4. **メインのマス**を選択して[**プロパティ パレット**](../formit-introduction/tool-bars.md)の**[レベルを適用]**をクリックし、メインの床だけを選択します。 この操作により、このマスの領域情報がプロパティ パレットに読み込まれます。**![](images/8b2036b8-b627-44a2-ada8-b901cdb380d2.png)**
+

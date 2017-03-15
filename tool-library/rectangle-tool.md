@@ -1,20 +1,24 @@
-### Rectangle Tool
+
+
+### 長方形ツール
 
 ---
-> Draws a rectangle that becomes a face when opteration is complete. The resulting face can be extruded into a volume. 
+
+> この演習では、操作の完了時に面に変化する長方形を描画する方法について説明します。結果として生成された面は、体積内に押し込むことができます。
 
 ---
 
-A rectangle can be draw on all the X, Y and Z axis. When you're snapped to an axis a colored line will extend beyond one edge of the rectangle as you are drawing. You can see the length of one side of the rectangle as you draw; to manually a specify a length press **tab** and enter that length.
+X 軸、Y 軸、Z 軸のすべてで、長方形を描画することができます。描画した長方形をいずれかの軸にスナップすると、その長方形のいずれかのエッジの延長線上に色の付いた直線が表示されます。描画した長方形のいずれかの面の長さを表示することができます。面の長さを手動で指定する場合は、**[Tab]キー**を押して長さを入力します。
 
-- X = Red
-- y = Green
-- Z = Blue
+* X 軸 = 赤
+* Y 軸 = 緑
+* Z 軸 = 青
 
-You can see the length of the line as you draw; to manually specify a length press **tab**. 
+描画中に、直線の長さが表示されます。直線の長さを手動で指定するには、**[Tab]キー**を押します。
 
 ![](images/rectangle tool 1.png)
 
 ![](images/rectangle tool 2.png)
 
-Once you are finished drawing the rectangle it will become a face that can be extruded to create a volume. 
+長方形の描画が完了すると、その長方形が面になります。この面を押し出して、体積を作成することができます。
+

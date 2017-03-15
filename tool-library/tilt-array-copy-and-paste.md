@@ -1,41 +1,32 @@
-### Tilt, Array, Copy and Paste
+
+
+### 傾斜、配列、コピーと貼り付け
 
 ---
-> To create more complex designs after sketching a shape or placing a primitive, you can use several contextual tools to modify your geometry. These operations include Tilt, Array, and Copy and Paste.
+
+> 形状をスケッチするか、プリミティブを配置した後、より複雑な設計を作成するには、いくつかのコンテキスト ツールを使用してジオメトリを修正します。これらの操作では、傾斜ツール、配列ツール、コピーと貼り付けツールを使用します。
 
 ---
 
+**面を傾斜させる**には、対象の面を選択して右クリックし、コンテキスト メニューを表示します。 コンテキスト メニューから[傾斜]アイコンを選択します。次に、線分を描画して傾斜軸を定義します。さらに、3 番目の点をクリックして、傾斜操作を開始します。
 
-To **tilt a face**, select a face, right-click to see the context menu. Then choose the tilt icon from the context menu. Next, define the tilt axis by drawing a line. Then, click a third point to start the tilt operation.
+![](images/tilt tool.png) ![](images/tilt step 1.PNG) ![](images/tilt step 2.png)
 
-![](images/tilt tool.png)
-![](images/tilt step 1.PNG)
-![](images/tilt step 2.png)
+面にカーソルを合わせると点線が表示される場合は、歪んでいる面が複数の小さな面で構成されていることを意味します。**点線をモデルのエッジに変換する**には、最初に面(またはオブジェクト)を選択し、右クリックしてコンテキスト メニューを表示します。 コンテキスト メニューから[ファセット]アイコンを選択します。滑らかだった面にエッジが追加されます。
 
+![](images/dotted line.png) ![](images/facet tool.png) ![](images/facet finish.PNG)
 
-If you hover over a face and notice dotted lines - this means the face is made up of smaller faces due to the face being warped. To **turn the dotted lines into model edges**, first select the face - or object - and right-click to see the context menu. Then choose the facet icon from the context menu. This will add edges, where before the face was smooth.
+**面、エッジ、またはオブジェクトをコピーして貼り付ける**には、最初にそのいずれかを選択し、コンテキスト メニューから[コピー]アイコンを選択します。 コンテキスト メニューをもう一度表示して、貼り付けます。貼り付けるときには、スナップと推定配置点のオプションが表示されます。[Ctrl]キーを長押ししてオブジェクトをドラッグし、すばやくコピーします。
 
-![](images/dotted line.png)
-![](images/facet tool.png)
-![](images/facet finish.PNG)
+![](images/copy tool.png) ![](images/paste tool.png)
 
+**エッジ、面、またはオブジェクト全体を選択する**には、コンテキスト メニューの[配列]アイコンをクリックします。 直線配列と円形状配列の両方を作成できます。次に、[直線]または[円形状]のどちらかを選択し、その他のパラメータを指定します。移動ツールの場合と同様に、配列を開始するオブジェクトをクリックし、もう一度クリックして、配列化された要素を配置します。
 
-To **copy and paste faces, edges, or objects**, first select then choose the copy icon from the context menu. Then, bring up the context menu again to paste. When pasting you will have snap and inference options. Hold down the CTRL key and drag an object to make a quick copy.
+直線:
 
-![](images/copy tool.png)
-![](images/paste tool.png)
+![](images/array tool.png) ![](images/array properties.PNG) ![](images/array step 1.png)
 
+円形状:
 
-To **array edges, faces, or entire objects**, click on the array icon from the context menu. You can create both linear and radial arrays. Next, choose either linear or radial and then specify the other parameters. Then, similar to the move tool - click the object to start an array, and click again to place arrayed elements.
+![](images/array radial 1.PNG) ![](images/array radial 3.PNG) ![](images/array radial finish.PNG)
 
-Linear:
-
-![](images/array tool.png)
-![](images/array properties.PNG)
-![](images/array step 1.png)
-
-Radial:
-
-![](images/array radial 1.PNG)
-![](images/array radial 3.PNG)
-![](images/array radial finish.PNG)

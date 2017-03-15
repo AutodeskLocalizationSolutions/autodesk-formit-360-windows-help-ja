@@ -1,37 +1,40 @@
-### Convert Revit Families for Use in FormIt
+
+
+### Revit ファミリを変換して FormIt で使用する
+
 ---
 
-1. Open Revit 2016 or 2017 and start a blank file from the Architectural Template. 
+1. Revit 2016 または 2017 を起動し、建築テンプレートで空のファイルを開きます。
 
-2. From the Add-Ins tab select **Convert RFA to FormIt 360** from the FormIt 360 Converter. 
-![](./images/957577ef-e004-4b33-9ec7-350649a90755.png)
+2. FormIt 360 Converter の[アドイン]タブで、**[RFA から FormIt 360 に変換]**を選択します。![](images/957577ef-e004-4b33-9ec7-350649a90755.png)
 
-3. Set the first path to **FormIt Primer\\content\\RFA** and the Converted Files path to **FormIt Primer\\content** and press OK.![](./images/032cef9c-00dd-4e03-9b89-01d93ff6e1ac.png)
+3. 最初のパスを **FormIt Primer¥content¥RFA** に設定し、変換後のファイルのパスを **FormIt Primer¥content** に設定して[OK]をクリックします。![](images/032cef9c-00dd-4e03-9b89-01d93ff6e1ac.png)
 
-4. This process will take a number of minutes as Revit opens each RFA in the first path and converts it to a format that FormIt 360 can read.
+4. この処理には数分かかります。これは、最初のパスのすべての RFA を Revit で開き、それらの RFA を FormIt 360 で読み込み可能な形式に変換する必要があるためです。
 
-**Note**: *You do not need to run this process during the tutorial, since all of the conversions have been made already. That is where the Corbu Chair and other content in the previous exercise came from.*
+**注**: *必要な変換処理はすべて完了しているため、このチュートリアルでこの変換処理を実行する必要はありません。 これまでの演習で使用した Corbu 椅子などのコンテンツは、この変換処理から取得されたものです。*
 
-#### Import Data from FormIt into Revit
+#### FormIt から Revit にデータを読み込む
+
 ---
 
-1. Still inside Revit, choose **Import FormIt 360 to RVT** from the add-in. ![](./images/9a7673f7-a265-49c8-b665-325e9618ac65.png)
+1. Revit のアドインで、**[FormIt 360 から RVT に読み込む]**を選択します。![](images/9a7673f7-a265-49c8-b665-325e9618ac65.png)
 
-2. Choose **farnsworth07.axm** from the FormIt Primer folder.
+2. FormIt Primer フォルダで **farnsworth07.axm** を選択します。
 
-3. This process will take a few minutes as Revit converts each object in the FormIt file into individual Mass, Generic, and Furniture family instances. 
-![](./images/cce7e450-4f6b-4f05-bdb1-88c385f58040.png)
+3. この処理には数分かかります。これは、FormIt ファイル内のすべてのオブジェクトが、Revit 内で個別のマス ファミリ インスタンス、一般ファミリ インスタンス、家具ファミリ インスタンスに変換されるためです。![](images/cce7e450-4f6b-4f05-bdb1-88c385f58040.png)
 
-4. If we inspect the various objects, we will see that most are mass families. The Columns however, are Generic family. This will allow us to edit the family and convert to another category such as Structural Column.
+4. 各種のオブジェクトを調べてみると、その多くがマス ファミリであることがわかります。ただし、柱は一般ファミリです。ファミリを編集して、構造柱などの別のカテゴリに変換することができます。
 
-5. The various furniture objects are Furniture category. There is one more tool that we can use to automatically swap out the ones that were converted in the previous exercise. Select **Reload Families** from the add-in. ![](./images/fbd116b0-fbb7-4d89-a15a-83ae42639705.png)
+5. さまざまな家具オブジェクトが家具カテゴリに属しています。これまでの演習で変換したファミリと自動的に交換することができるツールがもう 1 つあります。アドインで**[ファミリを再ロード]**を選択します。![](images/fbd116b0-fbb7-4d89-a15a-83ae42639705.png)
 
-6. In the dialog, select **FormIt Primer\\content.** This will point the converter at all sub-folders under this folder. Press OK. This process will take a number of minutes as it looks at each family and tries to make a match and reload the proper RFA file in its place. 
-![](./images/a97d2f55-e13c-4c34-b885-789f272949cc.png)
+6. ダイアログで **FormIt Primer¥content.** フォルダを選択します。これにより、このフォルダ内のすべてのサブフォルダで変換プログラムが参照されるようになります。 [OK]をクリックします。 この処理には数分かかります。これは、すべてのファミリを確認して、適切な RFA ファイルをそのファミリ用に再ロードするためです。![](images/a97d2f55-e13c-4c34-b885-789f272949cc.png)
 
-#### Export Data from Revit into FormIt
+#### Revit から FormIt にデータを書き出す
+
 ---
 
-There may be times when you need to bring data from Revit into FormIt – e.g. when you have an existing Revit project that needs an area of the design to be iterated on. Export a 3D scene to the SAT file format from Revit and you will be able to import that data back into FormIt.
+反復作業を行う設計領域を必要とする既存の Revit プロジェクトを使用する場合など、Revit のデータを FormIt に取り込みたい場合があります。そうした場合は、Revit の 3D シーン データを SAT ファイル形式で書き出すことにより、そのデータを FormIt にもう一度読み込むことができます。
 
-**Note**: *Family and category information is not transferred back to FormIt 360.*
+**注**: *ファミリ情報とカテゴリ情報については、FormIt 360 用に変換されることはありません。*
+

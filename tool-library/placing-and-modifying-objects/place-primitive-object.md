@@ -1,28 +1,30 @@
-### Placing and Modifying Objects
----
-> The goal of following exercises is to give you an understanding of the basic operations within FormIt. We will cover ** copy, array, rotate, select/move, scale, **and** cut/join.** 
+
+
+### オブジェクトを配置、修正する
 
 ---
-#### Placing Primitive Object
-1. In the [Action Toolbar](/tool-library/tool-bars-extended.md) click to open **Primitives button** and [select](/tool-library/select-edge-face-or-object.md) the cube. <br>
-![](../images/primitive-cube.png)
 
-2. Then drag and **click to place** the cube. <br>
-![](../images/primitive-cube-place.png)
+> これ以降の各演習では、FormIt の基本的な操作の仕組みについて説明します。具体的には、**コピー、配列、選択/移動、スケール、切り取り/結合******の各操作について説明します。
 
-3. Place a **Cylinder** as well.
+---
 
+#### プリミティブ オブジェクトを配置する
 
-#### Moving Objects
+1. [アクション ツールバー](tool-library/tool-bars-extended.md)で**[プリミティブ]ボタン**をクリックして開き、立方体を[選択](tool-library/select-edge-face-or-object.md)します。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](../images/primitive-cube.png)
 
-1. **Double Click** to select an entire object (single click will select a face, edge or vertex, which is explained in [Modifying Faces Edges and Points](../modifying-faces-edges-and-points.md).)
+2. 選択した立方体をドラッグし、適切な位置で**クリックして立方体を配置**します。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](../images/primitive-cube-place.png)
 
-2. Click and move the circle to the point you will use as the **snap point.** ![](../images/snap point.png)
+3. 同じ方法で、**円柱**を配置します。
 
-3. **Click and then start dragging**. You are now moving the object and the preselected point will now be your snap point. <br> ![](../images/move-object.png)
+#### オブジェクトを移動する
 
-4. Press the **tab key.** You can now type in a specific distance to move that object along the current axis.
+1. **ダブルクリック**してオブジェクト全体を選択します(面、エッジ、頂点を個別に選択する場合は、それぞれをシングルクリックします。詳しい方法については、「[面、エッジ、点の修正](../modifying-faces-edges-and-points.md)」を参照してください)。
 
-5. **Right click** on the cube. You will see the **Context Menu**. ![](../images/context-menu.png)
+2. 円をクリックし、**スナップ点**として使用する点まで円を移動します。![](../images/snap point.png)
 
+3. **オブジェクトをクリックしてドラッグ**します。 この操作によってオブジェクトが移動され、事前に選択された点がスナップ点になります。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](../images/move-object.png)
+
+4. **[Tab]キー**を押して、現在の軸に沿ってオブジェクトを移動する距離を入力します。
+
+5. 立方体を**右クリック**します。 **コンテキスト メニュー**が表示されます。![](../images/context-menu.png)
 

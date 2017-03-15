@@ -1,14 +1,18 @@
-### Spline Tool
+
+
+### スプライン ツール
 
 ---
-> Spline tool allows you to create organic sketches in space or on other objects.
+
+> スプライン ツールにより、空間内や他のオブジェクト上で有機的なスケッチを作成することができます。
 
 ---
 
-A spline is drawn from at least 3 interpolated points. The connected geometry in simplified creating a smooth and organic curve between the specified points. 
+スプラインは、3 つ以上の補間点によって描画されます。複数の点を指定すると、その点をつなぐようにして、滑らかで有機的なスプラインが描画されます。
 
-You can see the length of the line as you draw; to manually specify a length press **tab**. Splines can also close on themselves creating a face.
+描画中に、スプラインの長さを表示することができます。手動で長さを指定するには、**[Tab]**キーを押します。 スプラインを閉じると、面が作成されます。
 
 ![](images/spline 1.png)
 
 ![](images/spline 2.png)
+

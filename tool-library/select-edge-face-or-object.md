@@ -1,25 +1,26 @@
-### Select Edge, Face, or Object
----
-> Choosing an object or surface is the first step to making modifications.
+
+
+### エッジ、面、オブジェクトの選択
 
 ---
 
-To **select a face, edge or vertex**, hover over them - then single click to select.
+> オブジェクトやサーフェスを修正するには、最初にそのオブジェクトやサーフェスを選択する必要があります。
+
+---
+
+**面、エッジ、または頂点**を選択するには、対象の面、エッジ、または頂点にマウス カーソルを置いてシングルクリックします。
 
 ![](images/select edge.PNG)
 
-To **select an entire object**, double click the object.
+**オブジェクト全体を選択**するには、対象のオブジェクトをダブルクリックします。
 
 ![](images/select object.PNG)
 
-
-To **select multiple pieces of geometry simultaneously**, use the window selection tool. Make sure you have nothing selected, then you can click and drag your mouse from left to right, or from right to left, to capture multiple pieces.
+**複数のジオメトリをまとめて選択**するには、ウィンドウ選択ツールを使用します。 何も選択されていない状態で、マウスをクリックして左右どちらかにドラッグすると、複数のジオメトリをまとめて選択することができます。
 
 ![](images/select multiple objects.png)
 
+複数のジオメトリを**より正確に選択**するには、投げ縄ツールを使用します。 空のキャンバス内を右クリックすると、コンテキスト メニューに投げ縄ツールが表示されます。投げ縄ツールを使用して、対象となる選択領域を囲むように線を描画します。
 
-For **more precise control** in selecting multiple pieces of geometry simultaneously, use the lasso tool. You can select it from the context menu after right-clicking over the empty canvas. Then draw a line around your desired selection area.
-
-![](images/lasso context menu.png)
-![](images/select lasso.png)
+![](images/lasso context menu.png) ![](images/select lasso.png)
 

@@ -1,9 +1,12 @@
-### Collaboration
+
+
+### コラボレーション
+
 ---
 
-> FormIt allows multiple users (on any combination of iOS or Web clients) to collaboratively edit a FormIt model – while seeing all of their changes in real time! Work sumultaneously with others on the same sketch or share your work later. 
+> FormIt では、iOS クライアントや Web クライアントを自由に組み合わせて、自分が行った変更内容をリアルタイムで確認しながら、複数のユーザが同じ FormIt モデルを同時に編集することができます。同じスケッチで他のユーザと同時に作業したり、作業内容を後で共有することができます。
 
-> **Note:** Collaboration works only after your activate FormIt 360 Pro. Clicking on the Collaboration icon will prompt you to lof in with an AutoDesk 360 account entitled for FormIt 360 Pro. 
+> **注:** コラボレーション機能を使用する前に、FormIt 360 Pro を有効にする必要があります。 [コラボレーション]アイコンをクリックすると、FormIt 360 Pro 用の Autodesk 360 アカウントを使用してログインするためのプロンプトが表示されます。
 
 ---
 <video width="100%" controls>
@@ -12,4 +15,5 @@
 
 ---
 
-[Click to Learn how to Start a Collaboration Session](../tool-library/collaboration.md)
+[コラボレーション セッションの開始方法については、ここをクリックしてください。](../tool-library/collaboration.md)
+

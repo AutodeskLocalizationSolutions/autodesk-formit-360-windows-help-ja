@@ -1,7 +1,10 @@
-### Revit Interop
+
+
+### Revit の相互運用性
 
 ---
-> Make the connection beween Schematic Design in FormIt 360 and Design Documentation in Revit seamless. 
+
+> FormIt 360 の概略設計と Revit の設計ドキュメントをシームレスに接続することができます。
 
 ---
 
@@ -9,33 +12,33 @@
   <source src="Videos/Revit Interop.mp4" type="video/mp4">
 </video>
 
-#### Conceptual Massing in FormIt 360
+#### FormIt 360 のコンセプト マス
 
-1. FormIt objects become Revit Mass Families which support Wall by Face, Curtain System by Face, and Roof by Face.
+1. FormIt のオブジェクトは、[壁(面)]ツール、[面によるカーテン システム]ツール、[屋根(面)]ツールをサポートする Revit のマス ファミリになります。
 
-2. FormIt Levels become Revit Levels and support Mass Floors, Floor by Face, and Floor Plan view creation
+2. FormIt のレベルは、Revit のレベルになります。これらのレベルを使用して、マス床、床(面)、平面図ビューを作成することができます。
 
-#### Conceptual Modeling with Revit content in FormIt 360
+#### Revit のコンテンツを FormIt 360 で使用するコンセプト モデル
 
-1. Groups in FormIt can be categorized to become Revit Families like: Generic, Furniture, Specialty Equipment, etc.
+1. FormIt のグループを分類して、一般、家具、特殊部品などの Revit ファミリにすることができます。
 
-2. Revit Families can be exported as FormIt Groups, and then in the future, automatically converted back to the original Revit Family.
+2. Revit ファミリは FormIt のグループとして書き出すことができます。その後、元の Revit ファミリに自動的に再変換することもできます。
 
-#### Iteration between FormIt 360 and Revit projects
+#### FormIt 360 プロジェクトと Revit プロジェクト間での反復
 
-1. The Import FormIt command allows you to place FormIt objects into the Revit template of your choice.
+1. [FormIt を読み込む]コマンドを使用すると、FormIt のオブジェクトを任意の Revit テンプレート内に配置することができます。
 
-2. The Import FormIt to Revit command adds FormIt objects into an existing Revit project for easy update as the design evolves.
+2. [FormIt を Revit に読み込む]コマンドを実行すると、FormIt のオブジェクトが既存の Revit プロジェクトに追加されます。これらのオブジェクトは、設計作業の進捗状況に応じて簡単に更新することができます。
 
-3. The FormIt origin point uses the Revit base point for reliable placement of Imported FormIt objects.
+3. FormIt の基準点では Revit の基点が使用されるため、読み込んだ FormIt オブジェクトを正確に配置することができます。
 
-4. The Group Name in FormIt is remembered upon Revit Import allowing Filters.
+4. FormIt のグループ名は、Revit の読み込み許可フィルタで記憶されます。
 
-#### Iteration between Revit and FormIt 360
+#### Revit と FormIt 360 間での反復
 
-1. Revit System Families can be exported to FormIt using SAT export options.
+1. SAT 書き出しオプションを使用して、Revit のシステム ファミリを FormIt に書き出すことができます。
 
-2. Revit Families can be exported as FormIt Groups, and then in the future, automatically converted back to the original Revit Family.
+2. Revit ファミリは FormIt のグループとして書き出すことができます。その後、元の Revit ファミリに自動的に再変換することもできます。
 
+[Revit のアドインを使用して FormIt 360 と Revit を接続するための詳しい方法については、こちらを参照してください。](http://formit360.autodesk.com/page/formit-360-revit)
 
-[Learn more about the FormIt 360 and Revit connection using the add-in for Revit.](http://formit360.autodesk.com/page/formit-360-revit)

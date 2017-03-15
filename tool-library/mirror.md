@@ -1,12 +1,16 @@
-### Mirror
----
-> Mirror an object.
+
+
+### 鏡像
 
 ---
 
+> ここでは、オブジェクトを鏡像化する方法について説明します。
 
-To mirror an object, double click to select entire object. To start the mirror right click and choose mirror or type **MI**(1). The plane that appears shows the axis the object will be mirrored on (2). The plane can be moved or rotated to customize the axis of the mirror. 
+---
+
+オブジェクトを鏡像化するには、クリック操作でオブジェクト全体を選択します。鏡像化を開始するには、オブジェクトを右クリックして、[鏡像]を選択するか、**[M]、[I]** と入力します(1)。 オブジェクトを鏡像化するための軸を示す平面図が表示されます(2)。この平面図を移動または回転して、鏡像の軸をカスタマイズすることができます。
 
 1. ![](images/mirror 1.png)
 2. ![](images/mirror 2.PNG)
 3. ![](images/mirror 3.PNG)
+

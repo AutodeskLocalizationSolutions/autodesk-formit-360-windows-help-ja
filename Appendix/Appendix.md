@@ -1,10 +1,10 @@
-![](./images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
 
 
-> Version 0.1, ©2016 Autodesk, Inc. July 13, 2016
+![](images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
 
+> バージョン 0.1、©2016 Autodesk, Inc. 2016 年 7 月 13 日
 
-### Appendix 
+### 付録
 
-In this section, you can find additional resources for taking your FormIt game one step further. We've included keyboard shortcuts to make your FormIt process faster as well as the steps you can take to collaborate with others on one project.
+このセクションでは、FormIt をさらに詳しく理解するための追加のリソースを紹介します。 FormIt の操作や、同じプロジェクトにおける他のユーザとのコラボレーションを簡単に実行できるように、各種のキーボード ショートカットが導入されています。
 

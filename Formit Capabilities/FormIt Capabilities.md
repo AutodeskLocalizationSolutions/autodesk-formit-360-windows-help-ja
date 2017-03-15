@@ -1,13 +1,13 @@
-![](./Images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
+![](Images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
 
-> Version 0.1, ©2016 Autodesk, Inc.
-> July 13, 2016
+> バージョン 0.1、©2016 Autodesk, Inc. 
+> 2016 年 7 月 13 日
 
-# FormIt Capabilities
+# FormIt の機能
 
-Discover how to create conceptual building designs while initiating a BIM workflow.
- 
+このセクションでは、BIM ワークフローを使用してコンセプト建物モデルを作成する方法について説明します。
 
-Use Autodesk ®  FormIt ®  360 to capture building design concepts when ideas occur. Create those ideas in a portable digital format that can use real-world site information, such as satellite images, to orient your designs. Use real building and environmental data to support design brainstorming. Move your preliminary designs to centralized data storage for access and refinement in Autodesk ®  Revit ®  software or other applications.
+Autodesk® FormIt® 360 を使用すると、思いついたアイデアをすぐに建築設計コンセプトとして具体化することができます。 これらのアイデアをポータブルなディジタル形式として作成し、実際の現場の情報(衛星画像など)を使用して、適切に設計を進めることができます。実際の建築データや環境データを使用して、設計のブレインストームを行ってください。予備設計を中央のデータ ストレージに保管すると、Autodesk® Revit® などのソフトウェアやアプリケーションからその予備設計にアクセスして編集できるようになります。
 
-Watch the FormIt 360 high impact video [here](https://www.youtube.com/watch?v=4W_OKXiiSmk)!
+FormIt 360 を紹介する[ビデオ](https://www.youtube.com/watch?v=4W_OKXiiSmk)をぜひご覧ください。
+

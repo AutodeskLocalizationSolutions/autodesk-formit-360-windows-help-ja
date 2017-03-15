@@ -1,18 +1,22 @@
-### Boolean Operations
----
-> Use Join and Cut operations to alter objects.
+
+
+### ブール演算
 
 ---
 
-#### Join
-To perform a union, select all the objects you want to boolean. Then, select the **Join Tool** from the Context Menu. The intersecting/overlapping portion of the geometry will be united into one object. 
+> 結合(論理和演算)および切り取り(論理差演算)を使用して、オブジェクトを変更することができます。
+
+---
+
+#### 結合
+
+論理和演算を実行するには、演算対象のすべてのオブジェクトを選択します。次に、コンテキスト メニューで**結合ツール**を選択します。 ジオメトリの交差部分と重複部分が、1 つのオブジェクトとして結合されます。
 
 ![](images/join tool.png)
 
-#### Cut 
-To subtract volumes from existing geometry, first select the original object. Next select the object you want to subtract from it. Then select the **Cut Tool** from the Context Menu. The intersected volume will be subtracted from the original object.
+#### 切り取り
 
-![](images/cut tool.png)
-![](images/cut finish.PNG)
+既存のジオメトリの体積を減らすには、元のオブジェクトを選択し、そのオブジェクトから切り取るオブジェクトを選択します。次に、コンテキスト メニューで**切り取りツール**を選択します。 交差している部分の体積が、元のオブジェクトから減算されます。
 
+![](images/cut tool.png) ![](images/cut finish.PNG)
 

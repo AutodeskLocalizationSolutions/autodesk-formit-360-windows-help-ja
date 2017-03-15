@@ -1,7 +1,10 @@
-![](./images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
 
-> Version 0.1, ©2016 Autodesk, Inc. July 13, 2016
 
-# Tool Library
+![](images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
 
-Want to understand the function of a specific tool? In this section each tool and operation is explained and broken down step by step.
+> バージョン 0.1、©2016 Autodesk, Inc. 2016 年 7 月 13 日
+
+# ツール ライブラリ
+
+このセクションでは、各ツールとその機能について、手順を追って詳しく説明します。
+

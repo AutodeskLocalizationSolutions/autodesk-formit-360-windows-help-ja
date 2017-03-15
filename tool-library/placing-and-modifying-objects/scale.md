@@ -1,12 +1,18 @@
-### Scale
----
-> Adjust the size and orientation of objects.
+
+
+### スケール
 
 ---
 
-#### Scale
-First select, right-click to access the Context Menu. Then choose the scale icon. Use the scroll wheel on your mouse to scale the geometry up or down.
+> オブジェクトのサイズと向きを調整します。
+
+---
+
+#### スケール
+
+最初に、オブジェクトを選択して右クリックし、コンテキス メニューを開きます。 次に、スケール アイコンを選択します。 マウスのスクロール ホイールを使用して、ジオメトリの拡大と縮小を行います。
 
 ![](images/scale tool.png)
 
 ![](images/scale.png)
+

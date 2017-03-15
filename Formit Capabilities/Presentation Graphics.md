@@ -1,6 +1,10 @@
-### Presentation Graphics
+
+
+### プレゼンテーション グラフィックス
+
 ---
-> There are some nice ways to look at and study your FormIt model. There is a suite of visual style settings that can be applied quickly to give your model some pizzazz. FormIt allows you to control how elements are viewed within the sketch by adjusting shadows, surfaces, edges, and the environment. In addition to a pre-populated list of materials, you can make your own materials out of images and color that can be quickly applied to give your model some life. Layers can be used to control the visibility of lines, objects, groups, or images. 
+
+> FormIt モデルを調べる場合、いくつかの便利な方法があります。一連の表示スタイル設定をすばやく適用して、モデルを見やすくすることができます。FormIt では、影、サーフェス、エッジ、環境を調整することにより、スケッチ内での要素の表示方法をコントロールすることができます。事前に設定されたマテリアル リストの他に、すばやく適用できるイメージや色を使用して自分専用のマテリアルを作成することができます。こうしたマテリアルを使用することにより、モデルが見やすくなります。また、レイヤを使用して、直線、オブジェクト、グループ、イメージの表示をコントロールすることもできます。
 
 ---
 

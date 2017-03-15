@@ -1,15 +1,18 @@
-### Shadows
----
-> This feature allows you to accurately study the effects of the sun path on your project. You will be able to predict how context will effect your project and vise versa.  
+
+
+### 影
 
 ---
-The first step for accurate shadows studies is to [**set your project location**](../tool-library/setting-location.md). Once you have set your location and imported the scaled image; model your project, context, and trees. For quick studies try using the [**Content Library Palatte**](../formit-introduction/tool-bars.md) to bring existing context models. 
 
-- Next step is to make sure you have shadows turned on. This can be found in the [**Visual Styles Palette**](../formit-introduction/tool-bars.md).
-![](images/shadows 1.png)
+> この機能を使用すると、太陽の軌道がプロジェクトに与える影響を正確に調べることができます。現場の環境がプロジェクトにどのように影響するのか、プロジェクトが現場の環境にどのように影響するのかを予測することができます(ここでは、現場の環境のことを「コンテキスト」と呼びます)。
 
-- Click the *Sun and Shadows Button* in the [**Action Tool Bar**](../formit-introduction/tool-bars.md). This will give you a box that allows you to adjust date and time.
-![](images/shadows 2.png)
+---
 
-- You can then export screen shots of your studies for presentation and even animate them with the use of scenes. 
-![](images/shadows 3.png)
+影を正確に調査するには、最初に[**プロジェクトの位置を設定**](setting-location.md)する必要があります。 プロジェクトの位置を設定し、スケールが調整された衛星画像を読み込んだら、プロジェクト、コンテキスト、樹木をモデル化します。[**コンテンツ ライブラリ パレット**](../formit-introduction/tool-bars.md)を使用して既存のコンテキスト モデルを呼び出すと、すばやく調査を行うことができます。
+
+* 次に、影が有効になっているかどうかを確認します。これは、[**表示スタイル パレット**](../formit-introduction/tool-bars.md)で確認することができます。![](images/shadows 1.png)
+
+* [**アクション ツールバー**](../formit-introduction/tool-bars.md)で*[太陽と影]ボタン*をクリックします。 この操作により、日付と時刻を調整するためのボックスが表示されます。![](images/shadows 2.png)
+
+* プレゼンテーション用として、調査結果の画面ショットを書き出すことができます。また、シーンを使用して、画面ショットをアニメーションにすることもできます。![](images/shadows 3.png)
+

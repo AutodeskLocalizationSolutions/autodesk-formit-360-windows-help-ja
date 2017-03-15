@@ -1,20 +1,20 @@
-### Boolean Cut and Join
+
+
+### ブール論理差とブール論理和
+
 ---
 
-1. Double click to select one of the cubes you have created.
+1. 作成したいずれかの立方体をダブルクリックして選択します。
 
-2. Move one cube so that it overlaps the other.
-![](./images/a9bdaadd-5879-4a2d-98d4-34446eb79176.png)
+2. 選択した立方体を、別の立方体に重なるように移動します。![](images/a9bdaadd-5879-4a2d-98d4-34446eb79176.png)
 
-3. Select both cubes. You can do this by either:
-    - Holding the **CTRL key** down while **double clicking.**
-    - Using a standard crossing window by **left click** and **dragging** in the scene.
-    - Right click in the scene and choosing the **Lasso tool** for a more fine-grained selection.
+3. 次のいずれかの方法で、両方の立方体を選択します。
 
-4. To **Cut**, right click on the object that will be cut, and choose the [**Cut tool**](/tool-library/boolean-operations.md) in the Context Menu.
-![](../images/cut tool.png)
-![](../images/cut finish.PNG)
+* **[Ctrl]キー**を押しながら**ダブルクリック**する。
+* シーン内で**左クリック**して**ドラッグ**することにより、標準の交差窓を使用する。
+* シーン内で右クリックして**投げ縄ツール**を選択し、さらに詳細な選択項目を表示する。
 
-5. To **Join**, right click on either object and choose
-the [**Join tool**](/tool-library/boolean-operations.md) in the Context Menu. 
-![](../images/join tool.png)
+4. **切り取り**を行うには、切り取るオブジェクトを右クリックし、コンテキスト メニューで[**切り取りツール**](tool-library/boolean-operations.md)を選択します。![](../images/cut tool.png) ![](../images/cut finish.PNG)
+
+5. **結合**を行うには、結合するいずれかのオブジェクトを右クリックし、コンテキスト メニューで[**結合ツール**](tool-library/boolean-operations.md)を選択します。![](../images/join tool.png)
+

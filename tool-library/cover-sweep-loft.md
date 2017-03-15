@@ -1,52 +1,48 @@
-### Cover, Sweep, Loft
+
+
+### かぶり、スイープ、ロフト
 
 ---
 
-> Enclose open edges, make geometry changes along a path of edges, and connect multiple profiles or edges.
+> この演習では、開いているエッジを囲む方法、エッジのパスに沿ってジオメトリを変更する方法、複数のプロファイルやエッジを接続する方法について説明します。
 
 ---
 
-#### To enclose a series of faces
+#### 一連の面を囲むには
 
-1. Click the cover tool from the action bar. <br>
-![](images/cover tool.png)
+1. アクション バーでかぶりツールをクリックします。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/cover tool.png)
 
-2. Click the edges of the object to cover. 
-![](images/cover selection.PNG)
+2. 囲むオブジェクトのエッジをクリックします。![](images/cover selection.PNG)
 
-3. Click Finish. ![](images/GUID-E23D787E-5F90-4DE1-B690-03306F0CB4B2-low.png) <br>
-![](images/cover finish.PNG)
+3. [完了] ![](images/GUID-E23D787E-5F90-4DE1-B690-03306F0CB4B2-low.png) をクリックします。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/cover finish.PNG)
 
-#### To change geometry along a path
+#### パスに沿ってジオメトリを変更するには
 
-1. Mark a face of an object that you want to cut. 
-    ![](images/mark face.PNG)
+1. 切り取るオブジェクトの面をマークします。![](images/mark face.PNG)
 
-2. Click the sweep tool icon. <br>
-    ![](images/sweep tool.png)
+2. スイープ ツール アイコンをクリックします。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/sweep tool.png)
 
-3. Select the face you marked earlier. 
-    ![](images/select face for sweep.PNG)
+3. 上の手順でマークした面を選択します。![](images/select face for sweep.PNG)
 
-4. Select the edge you want to cut. 
-    
-    ![](images/select edge for sweep.PNG)
+4. 切り取るエッジを選択します。
 
-5. Click the Finish icon. ![](images/GUID-E23D787E-5F90-4DE1-B690-03306F0CB4B2-low.png) The original object is modified along the sweep path. 
-    ![](images/sweep finish.PNG)
-    
+![](images/select edge for sweep.PNG)
 
-#### To connect multiple profiles or edges
+5. [完了]アイコンをクリックします。 ![](images/GUID-E23D787E-5F90-4DE1-B690-03306F0CB4B2-low.png)元のオブジェクトが、スイープ パスに沿って変更されます。![](images/sweep finish.PNG)
 
-1. Click the Loft icon. <br>
-![](images/loft tool.png)
+#### 複数のプロファイルまたはエッジを接続するには
 
-2. Click the edges on the first object and click the arrow. 
-    
-    ![](images/loft select face.PNG)
-3. Click the edges on the second object. 
-    
-    ![](images/loft select second edge.PNG)
-4. Click Finish. ![](images/GUID-E23D787E-5F90-4DE1-B690-03306F0CB4B2-low.png) 
-    
-    ![](images/loft finish.PNG)
+1. [ロフト]アイコンをクリックします。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/loft tool.png)
+
+2. 最初のオブジェクトのエッジをクリックした後で矢印をクリックします。
+
+![](images/loft select face.PNG)
+
+3. 2 番目のオブジェクトのエッジをクリックします。
+
+![](images/loft select second edge.PNG)
+
+4. [完了] ![](images/GUID-E23D787E-5F90-4DE1-B690-03306F0CB4B2-low.png) をクリックします。
+
+![](images/loft finish.PNG)
+

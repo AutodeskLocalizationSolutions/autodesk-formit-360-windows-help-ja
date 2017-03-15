@@ -1,19 +1,18 @@
-### Measure Angle Tool
+
+
+### [角度を計測]ツール
 
 ---
-> The measure angle tool is located on the [Action Tool Bar](../formit-introduction/tool-bars.md).
+
+> [角度を計測]ツールは、[アクション ツールバー](../formit-introduction/tool-bars.md)に組み込まれています。
 
 ---
 
-The measure angel tool is used to measure angles between vertices, edges, faces, and volumes. You can also use the measure to drive drive dimensions of geometry.
+[角度を計測]ツールを使用して、頂点、エッジ、面、体積間の角度を計測することができます。また、計測した値を使用して、ジオメトリの寸法を調整することもできます。
 
-- Select measure tool from the Action Tool Bar or short key **M A** and and select starting point.
-![](images/measure angle 1.png)
-- Click and drag handle to the starting vertex.
-![](images/measure angle 2.png)
-- Use arrows to measure the angle between one point to another. 
-![](images/measure angle 3.png)
-- To change the geometry click on face/edge to change and enter a new angle by clicking on the provided angle. 
-![](images/measure angle 4.png)
-- **Final Result:**
-![](images/measure angle 5.png)
+* アクション ツールバーで[角度を計測]ツールを選択するか、ショートカットキーの**[M]、[A]** を使用して開始点を指定します。![](images/measure angle 1.png)
+* ドラッグ ハンドルをクリックして、開始位置の頂点までドラッグします。![](images/measure angle 2.png)
+* 矢印を使用して、点と点の間の角度を計測します。![](images/measure angle 3.png)
+* ジオメトリを変更するには、変更する面やエッジをクリックし、表示された角度をクリックして新しい角度を入力します。![](images/measure angle 4.png)
+* **最終的な結果:** ![](images/measure angle 5.png)
+

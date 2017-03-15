@@ -1,20 +1,22 @@
-### Setting Location
+
+
+### 位置を設定する
+
 ---
 
-> Setting your project’s location in the world is important for the accuracy of down-stream analyses. It also allows you to import a scaled satellite image to use as a background reference.
+> 下流工程での解析を正確に実行するには、プロジェクトの位置を地球上の実際の地点に設定することが重要になります。位置を設定することにより、スケールが調整された衛星画像を読み込んで、参照情報として使用できるようになります。
 
 ---
 
-#### Set Location:
+#### 位置を設定するには
 
-1. Set location to *Farnsworth House*:
-    - Type ***Farnsworth House*** in the search field. Google Maps will fill in the actual location.
-    - As soon as you commit the location search, the location is set to the center of the view.
-2. You can now click **Finish** to set the location and return to the 3D scene.
-![](./images/4101d5b1-cd39-4a96-b4a8-8d7009c54848.png)
-Or you may optionally import a scaled satellite image:
-    - Click **Import satellite image** and then **Finish Importing Image**.
-![](./images/894bd8ae-cb86-4330-ae3f-fe58ac39ab73.png)
-    - Satellite image is imported to scale with True North facing up.
-    - Go to the [**Visual Styles Palette**](../tool-library/tool-bars-extended.md) and enable **North Arrow** to see an interactive indicator of true north.
-    - Once back in the 3D scene, **select the satellite image** by doubleclicking. Open the [**Properties Palette**](../tool-library/tool-bars-extended.md) and lower the transparency slider about **1/3**. ![](./images/038168bf-b019-4a1f-8fb7-308ae4fe218e1.png)
+1. *ファンズワース邸*の位置を設定します。
+* 検索フィールドに「***Farnsworth House***」と入力します。 Google マップにより、実際の位置が設定されます。
+* 位置検索を実行すると同時に、その位置を中心とするビューが表示されます。
+
+2. **[完了]**をクリックすると位置が設定され、3D シーンに戻ります。 ![](images/4101d5b1-cd39-4a96-b4a8-8d7009c54848.png)必要な場合は、倍率が調整された衛星画像を読み込むこともできます。
+* **[衛星画像を読み込む]**をクリックした後で**[読み込みを終了]**をクリックします。![](images/894bd8ae-cb86-4330-ae3f-fe58ac39ab73.png)
+* 衛星画像が真北を上にして読み込まれ、スケールが変更されます。
+* [**表示スタイル パレット**](../tool-library/tool-bars-extended.md)に移動して**[北向き矢印]**を有効にし、真北を示す対話型インジケータを表示します。
+* 3D シーンに戻り、ダブルクリックして**衛星画像を選択**します。 [**プロパティ パレット**](../tool-library/tool-bars-extended.md)を開き、透過度スライダの値を **1/3** くらい下げます。![](images/038168bf-b019-4a1f-8fb7-308ae4fe218e1.png)
+

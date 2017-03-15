@@ -1,26 +1,22 @@
-### Work with Images and the Ground Plane
+
+
+### イメージと地盤面を使用する
+
 ---
 
-You may import PNG images onto the ground plane by using the File &gt; Import menu. However, to gain more control over the scale and position, we will place a material texture onto a plane. The **plan.png** image is 3600 pixels wide by 2400 pixels high. By measuring the scale on the plan, we see that 1' is 25 pixels. This will allow us to scale the image properly in the scene.
+[ファイル] > [読み込み]メニューを使用して、PNG イメージを地盤面上に読み込むことができます。ただし、スケールと位置をより正確にコントロールするため、ここでは平面上にマテリアル テクスチャを配置します。**plan.png** イメージのサイズは、幅が 3600 ピクセルで高さが 2400 ピクセルです。 平面上でスケールを計測すると、1' は 25 ピクセルであることがわかります。この値を使用して、シーン内のイメージを正確にスケーリングすることができます。
 
+1. [**長方形ツール(R)**](../tool-library/rectangle-tool.md)を選択し、サイズが **144'** X **96'** の長方形を描画します。正確なサイズを入力するには、**[Tab]キー**を押します。![](images/49fbf65d-2c44-4cc3-9bc6-e172cd19ca81.png)
 
+2. [**マテリアル パレット**](../formit-introduction/tool-bars.md)を開き、**[+]**アイコンをクリックして新しいマテリアルを作成します。
 
-1. Choose the [**Rectangle tool (R)**](../tool-library/rectangle-tool.md) and draw a rectangle **144'** by **96'** - use the **Tab key** to type in exact dimensions.
-![](./images/49fbf65d-2c44-4cc3-9bc6-e172cd19ca81.png)
+3. **フォルダ アイコン**をクリックし、FormIt Primer/Drawings サブフォルダ内の **plan.png** イメージを開きます。
 
-2. Open the [**Material Palette**](../formit-introduction/tool-bars.md) and click the **+** icon to create a new material.
+4. [水平スケール]フィールドに **144'**、[垂直スケール]フィールドに **96'** をそれぞれ入力し、マテリアルの名前として「**Floor Plan**」と入力します。![](images/8f0f2e11-ecfb-484d-94f6-0930c8ad7b20.png)
 
-3. Click the **folder icon** and open **plan.png** from the FormIt Primer/Drawings subfolder.
+5. **[OK]**をクリックしてシーンに戻ります。 [**マテリアル パレット**](../formit-introduction/tool-bars.md)で[Floor Plan]マテリアルを**右クリック**して**[マテリアルによるペイント]**を選択し、スケッチした**平面をクリック**します。![](images/ec9f4404-281a-4fb4-a104-e3dd92f67e62.png)
 
-4. Enter **144'** in the Horizontal field and **96'** in the Vertical field and name the material "**Floor Plan**".
-![](./images/8f0f2e11-ecfb-484d-94f6-0930c8ad7b20.png)
+6. **平面全体**を**ダブルクリック**して選択し、 [**回転ツール(Q)**](../tool-library/placing-and-modifying-objects/rotate.md)を**右クリック**して選択します。 次に、回転ウィジェットを画面左下隅に移動し、イメージを**左方向に 9 度**回転します。![](images/eab003c6-c95c-4003-9068-0eb43f41a263.png)
 
-5. **Click OK** to return to the scene. In the [**Material Palette**](../formit-introduction/tool-bars.md) **right click** on the Floor Plan material and choose **Paint with Material** and then **click on the plane** you sketched.
-![](./images/ec9f4404-281a-4fb4-a104-e3dd92f67e62.png)
-
-6. **Double-click** the **entire plane** to select it. **Right click** and choose [**Rotate (Q)**](../tool-library/placing-and-modifying-objects/rotate.md). Move the Rotate widget to the bottom left corner and rotate the image **9 degrees counter clockwise**.
-![](./images/eab003c6-c95c-4003-9068-0eb43f41a263.png)
-
-7. **Right click** on the **ground plane** and choose [**Set Axes (SZ)**](../tool-library/world-axes.md). Move the axis to the bottom left corner of the of the image plane. Move the axis so that it is alinged to the angle of the plane. The ground plan grid is now aligned to the image – which will make 3D sketching much easier.
-![](./images/ed8afd35-af8a-4cf3-b3a7-71def22f9b2e.png)
+7. **地盤面**上で**右クリック**[**[軸を設定(SZ)]**](../tool-library/world-axes.md)を選択し、 イメージの左下隅に軸を移動します。次に、平面の角度に一致するように軸を移動します。この操作により、地面のグリッドがイメージに一致するため、3D のスケッチを簡単に行うことができます。![](images/ed8afd35-af8a-4cf3-b3a7-71def22f9b2e.png)
 

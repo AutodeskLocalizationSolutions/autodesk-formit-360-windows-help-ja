@@ -1,20 +1,26 @@
-### Delete, Edit, Move
+
+
+### 削除、編集、移動する
+
 ---
 
-> Remove an object, change its location, or modify its properties.
+> この演習では、オブジェクトの削除、オブジェクトの場所の移動、オブジェクトのプロパティの編集を行います。
 
 ---
 
-#### Delete
-First make a geometry selection. Then, right-click to see the Context Menu where you can click on the **Delete Tool**. You can also press the delete key on your keyboard.
+#### 削除
+
+最初に、削除するジオメトリを選択します。次に、コンテキスト メニューを右クリックして**削除ツール**をクリックします。 または、キーボードの[Delete]キーを押してもかまいません。
 
 ![](images/delete.png)
 
-#### Edit
-When using many of the editing tools like Move, Array, Push Pull Face, and Offset, you will see a blue dimension box. You can click this dimension after you finish your operation, and input a specific value. You can also press the Tab key to access the Edit Dimension dialog.
- ![](images/edit dimension.png)
+#### 編集
 
-#### Move Edges, Faces, or Objects
-First select the edge, face, or object. Then you are automatically in the move tool. Hover to see snaps and inference points to specify where you want to start your move operation, click to start. Now hover your mouse to see snaps and inference points to the location you want to move the object. Click again to place the object.
+[移動]ツール、[配列]ツール、[面をプッシュ/プル]ツール、[オフセット]ツールなどの編集ツールを使用する場合、青い寸法ボックスが表示されます。操作が完了したらこの寸法ボックスをクリックし、特定の値を入力します。[Tab]キーを押すと、[寸法値を入力]ダイアログが表示されます。このボックスで値を入力することもできます。![](images/edit dimension.png)
+
+#### エッジ、面、オブジェクトを移動する
+
+最初に、移動するエッジ、面、またはオブジェクトを選択します。自動的に移動ツールが起動します。マウスを操作してスナップと推定配置点を表示し、移動操作の開始位置を指定してクリックします。これにより、移動操作が開始されます。次に、オブジェクトの移動先となる位置にマウスを置き、スナップと推定配置点を表示します。もう一度クリックすると、オブジェクトが配置されます。
 
 ![](images/move edge.png)
+

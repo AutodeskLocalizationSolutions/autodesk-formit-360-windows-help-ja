@@ -1,13 +1,16 @@
-### Setting Location
----
-> Setting your your project's location in the world it is important for the accuracy of the down-stream analyses. It also allows you to import a scaled satellite image to use as a backgroud reference.
+
+
+### 位置を設定する
 
 ---
-The first step in setting a location is to make sure you are signed into your A360 account. Once you are signed in you will be able to access the location (LS) feature.
 
-- Begin by typing the location of your project into the search box in the upper left hand corner of the *Specify Location* window. 
-![](images/location 1.png)
-- Once you have located the position of your project site and the extends your want to import click the **Finish Importing Image**
-![](images/location 2.png)
-- The image will then be imported to scale with true north facing up. You can change the appreance of the imported image by double clicking and going to the [**Properties Palette**](../formit-introduction/tool-bars.md). 
-![](images/location 3.png)
+> 下流工程での解析を正確に実行するには、プロジェクトの位置を地球上の実際の地点に設定することが重要になります。位置を設定することにより、スケールが調整された衛星画像を読み込んで、参照情報として使用できるようになります。
+
+---
+
+位置を設定するには、最初に A360 アカウントにサインインする必要があります。サインインすると、位置(LS)機能を使用できるようになります。
+
+* FormIt 360 Pro では、上記の他に最初に、*[位置を指定]*ウィンドウの左上隅にある検索ボックスでプロジェクトの位置を入力します。![](images/location 1.png)
+* プロジェクト サイトの位置を設定し、読み込む衛星画像が決まったら、**[イメージの読み込みを終了]**をクリックします。![](images/location 2.png)
+* 衛星画像が真北を上にして読み込まれ、スケールが変更されます。読み込んだ画像の外観を変更するには、画像をダブルクリックして[**プロパティ パレット**](../formit-introduction/tool-bars.md)に移動します。![](images/location 3.png)
+

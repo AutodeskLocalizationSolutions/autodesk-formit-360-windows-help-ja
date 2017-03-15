@@ -1,27 +1,30 @@
-### Layers
+
+
+### レイヤ
+
 ---
 
->Much like AutoCAD and Photoshop, Layers in FormIt allow you to manage the visibility of objects in your scene. We are going to create a layer to save and hide the building mass for later analysis.
+> AutoCAD や Photoshop と同様に、FormIt のレイヤを使用して、シーン内のオブジェクトの表示設定を管理することができます。この演習では、今後の解析で使用する建築マスの保存と非表示を行うためのレイヤを作成します。
 
 ---
 
-1. Click the [**Layers Palette**](../formit-introduction/tool-bars.md) and click the **+** sign twice to create three layers.
+1. [**レイヤ パレット**](../formit-introduction/tool-bars.md)をクリックし、**[+]**記号を 2 回クリックして 3 つのレイヤを作成します。
 
-2. Double click the layers to rename them: **massing, Floor 1, plan image**. <br>
-     ![](./images/10c435cf-fcc2-4a4b-9135-094dea903da2.png)
+2. 各レイヤをダブルクリックして、レイヤ名を **massing、Floor 1、plan image** にそれぞれ変更します。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/10c435cf-fcc2-4a4b-9135-094dea903da2.png)
 
-3. Select the **massing Group** and choose the **massing layer** from the "Selection On" menu in the Layers Palette.
+3. **[massing]グループ**を選択し、レイヤ パレットの[選択:]メニューで**[massing]レイヤ**を選択します。
 
-4. Create a copy of the Group by pressing **Ctrl+C** and then **Ctrl+V**.
+4. **[Ctrl]+[C]**を押した後で**[Ctrl]+[V]**を押して、グループのコピーを作成します。
 
-5. Right click on the copied Group and choose **Make Unique (MU)**. The Group is now its own unique Group and will not update with the other one. ![](./images/3f46a20c-a1ab-44a1-8ba3-d2cdb050f1bd.png)
+5. コピーしたグループを右クリックして、**[ユニークにする(MU)]**を選択します。 この操作により、コピーしたグループが専用のユニークなグループになり、他のグループによって更新されなくなります。![](images/3f46a20c-a1ab-44a1-8ba3-d2cdb050f1bd.png)
 
-6. Select the **newly created group** and choose **Floor 1** from the menu. This will be the basis for the first floor.
+6. **新しく作成されたグループ**を選択し、メニューで**[Floor 1]**を選択します。 これが、1 階のベースになります。
 
-7. Move it to exact spot of the original Group by selecting the lower left corner. 
+7. 新しく作成されたグループの左下角を選択して、元のグループの正確な位置に移動します。
 
-8. Uncheck the **massing** layer to hide it.
+8. **[massing]**レイヤの選択を解除して、非表示にします。
 
-9. Edit the **Floor 1 Group** and select the **top face**. Move it down **11'-2"**. The resulting floor should be 1' thick.
+9. **[Floor 1]グループ**を編集して**上面**を選択し、 **11'-2"** まで移動します。 この操作により、床の厚さが 1' になります。
 
-10. Select the plan image group and create and assign it to a new **Plan Image** layer.
+10. [plan image]グループを選択して作成し、新しい**[plan image]**レイヤに割り当てます。
+

@@ -1,11 +1,10 @@
-![](./images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
-
-> Version 0.1, ©2016 Autodesk, Inc. July 13, 2016
-
-# Introduction to FormIt 360
-
-In this section you will learn the general format of FormIt 360 and basic tools for modeling. Let's start our journey with FormIt by setting some context - how do I begin a project and navigate through the program? 
 
 
+![](images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
 
+> バージョン 0.1、©2016 Autodesk, Inc. 2016 年 7 月 13 日
+
+# FormIt 360 の概要
+
+このセクションでは、FormIt 360 の概要と、モデリング用の基本的なツールを紹介します。最初に、プロジェクトの開始方法とプログラムのナビゲーション方法について説明します。
 

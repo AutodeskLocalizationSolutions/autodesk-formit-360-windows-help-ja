@@ -1,37 +1,38 @@
-### Groups
----
 
->Any time you snap to a line or object in FormIt, a join occurs. To avoid this, you can Group an object(s). But this is not all, copies of Groups maintain their connection to the original. Editing any copy of a Group edits all of them. This is similar to Components in SketchUp and Family instances in Revit.
 
-> If you did not complete the last section, download and open the **farnsworth02.axm** file from the [FormIt Primer folder](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442).
+### グループ
 
 ---
 
-#### Creating and Editing a Group
+> FormIt で直線やオブジェクトにスナップするたびに、論理和演算が実行されます。オブジェクトをグループ化すると、論理和演算を回避することができます。グループ化のメリットはこれだけではありません。グループをコピーした場合でも、元のオブジェクトへの接続はそのまま保持されます。グループのいずれかのコピーを編集すると、その編集内容がすべてのコピーに反映されます。この動作は、Revit の SketchUp インスタンスと Family インスタンスのコンポーネントの動作に似ています。
 
-1. Select the **first rectangular mass** that you created.
+> 直前の演習がまだ完了していない場合は、[FormIt Primer フォルダ](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442)から **farnsworth02.axm** ファイルをダウンロードして演習を完了してください。
 
-2. **Right click** and create a **Group (G)**. ![](./images/c2f57781-ec11-4fbd-87b0-c5fd33ad8b07.png)
-
-3. Select the Group by single-clicking. **Move** the entire Group up **4'-6"**. Press and hold the **Shift key** when the blue Z axis guide appears to lock onto that axis. ![](./images/293f6046-366c-43ca-858b-389f0c260be6.png)
-
-4. It is important to name Groups as you will have many of them to keep track of. To name the Group, **double-click** to start the edit mode and then open the [**Properties Palette**](../tool-library/tool-bars-extended.md) to name the Group **"main building"**. <br>
-    ![](./images/93c9106d-7676-4cd7-b5e2-b00a56c4e30f.png)
-
-5. Close the edit mode by clicking on the **check mark** in the upper left. ![](./images/3b0e7944-9cb1-4852-9b3b-aedf75fc5270.png)
-
-
-
-**Note**: *Each Group has their own undo/redo "stack" that is distinct from the top level project.*
-
-#### Apply Levels to a Group
 ---
 
-1. Select the **main building by single-clicking** and open the [**Properties Palette**](../formit-introduction/tool-bars.md) of the Palette Bar.
+#### グループを作成、編集する
 
-2. Check the **Use Levels ON**. This will "slice" these masses by the levels you choose. Click **Check All**.
+1. 既に作成されている**最初の長方形マス**を選択します。
 
-3. The **Area by Level** will display gross area of the currently selected object(s) and the area of each individual level.
+2. **右クリック**して**[グループを作成(G)]**します。![](images/c2f57781-ec11-4fbd-87b0-c5fd33ad8b07.png)
 
-4. If you do not see blue level lines on the object, go to the **Settings menu &gt; Visual Style &gt; Display Levels (DL)**. <br>
-     ![](./images/8b2036b8-b627-44a2-ada8-b901cdb380d2.png)
+3. 作成したグループをシングルクリックで選択します。グループ全体を上方向に **4'-6"** **移動**します。 Z 軸が表示されたら、**[Shift]キー**を押しながらグループを Z 軸に固定します。![](images/293f6046-366c-43ca-858b-389f0c260be6.png)
+
+4. これ以降の操作でさまざまなグループを使用することになるため、グループには必ず名前を付けてください。グループ名を指定するには、**ダブルクリック**で編集モードに切り替えて[**プロパティ パレット**](../tool-library/tool-bars-extended.md)を開きます。「**main building**」というグループ名を入力します。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/93c9106d-7676-4cd7-b5e2-b00a56c4e30f.png)
+
+5. 左上に表示されている**チェック マーク**をクリックして編集モードを終了します。![](images/3b0e7944-9cb1-4852-9b3b-aedf75fc5270.png)
+
+**注**: *各グループには、[元に戻す]操作と[やり直し]操作を保管するための専用スタックがあります。これは、最上位レベル プロジェクトのスタックとは異なるスタックです。*
+
+#### グループにレベルを適用する
+
+---
+
+1. **シングルクリックで[main building]グループを選択**し、パレット バーの[**プロパティ パレット**](../formit-introduction/tool-bars.md)を開きます。
+
+2. **[レベルを使用]**オプションが有効になっているかどうかを確認します。 このオプションを有効にすると、選択したレベルによってマスが分割されます。**[すべてチェック]**をクリックします。
+
+3. **[レベル別の領域]**に、現在選択されているオブジェクトの総面積と、各レベルの面積が表示されます。
+
+4. オブジェクトに青いレベル線が表示されない場合は、**[設定メニュー] > [表示スタイル] > [レベルの表示(DL)]**に移動して設定を行ってください。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/8b2036b8-b627-44a2-ada8-b901cdb380d2.png)
+

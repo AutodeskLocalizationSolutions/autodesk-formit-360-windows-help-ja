@@ -1,24 +1,20 @@
-### Navigating the Scene
----
-> Here are the key tools on the Navigation Tool Bar for moving around the design area. 
+
+
+### シーンのナビゲーション
 
 ---
-**1. Orbiting**
-![](./images/orbit-tool.png) 
-Right click and drag, or use the orbit tool from the navigation toolbar to click drag the left mouse button to orbit.
 
-**2. Zooming**
-![](./images/zoom.png) 
-Scroll the mouse wheel or use the zoom tool from the navigation toolbar to click drag the left mouse button to zoom.
+> ここでは、ナビゲーション ツールバーに用意されている、設計領域内を移動するための主要なツールを紹介します。
 
-**3. Panning**
-![](./images/panning.png)
-Click and drag the middle mouse button, or use the pan \(hand\) tool from navigation toolbar to click drag the left mouse button to pan.
+---
 
-**4. Walkthrough**
-![](./images/jet-pack.png)
-The “Jetpack” allows you to walk and fly through the scene. This will be covered in detail in a later section.
+**1. オービット** ![](images/orbit-tool.png) オービット操作を行うには、右クリックしてドラッグするか、ナビゲーション ツールバーのオービット ツールを使用して、マウスの左ボタンをクリックしてドラッグします。
 
-**5. Swivel**
-![](images/Swivel.PNG)
-Use the swivel tool from the navigation toolbar to swivel around the scene from a specific point. 
+**2. ズーム** ![](images/zoom.png) ズーム操作を行うには、マウス ホイールをスクロールするか、ナビゲーション ツールバーのズーム ツールを使用して、マウスの左ボタンをクリックしてドラッグします。
+
+**3. 画面移動** ![](images/panning.png) 画面内を移動するには、マウス ホイールをクリックしてドラッグするか、ナビゲーション ツールバーの画面移動ツール(手のアイコン)を使用して、マウスの左ボタンをクリックしてドラッグします。
+
+**4. ウォークスルー** ![](images/jet-pack.png) シーン内をウォークスルーまたはフライスルーするには、このアイコンをクリックします。 この機能については、これ以降のセクションで詳しく説明します。
+
+**5. 旋回** ![](images/Swivel.PNG) 特定の点を基点としてシーンの周囲を旋回するには、ナビゲーション ツールバーの旋回ツールを使用します。
+

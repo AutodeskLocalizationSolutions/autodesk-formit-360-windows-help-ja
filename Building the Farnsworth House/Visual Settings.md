@@ -1,43 +1,46 @@
-### Visual Settings
+
+
+### 表示設定
+
 ---
-> If you did not complete the last section, download and open the **farnsworth07.axm** file from the [FormIt Primer folder](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442).
 
+> 直前の演習がまだ完了していない場合は、[FormIt Primer フォルダ](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442)から **farnsworth07.axm** ファイルをダウンロードして演習を完了してください。
 
 ---
 
-#### Scenes
+#### シーン
 
-1. Navigate the camera to match the scene below.
+1. 以下に示すシーンに一致するようにカメラをナビゲートします。
 
-2. Open the [**Scenes Palette**](../formit-introduction/tool-bars.md) and click the + twice to add two more scenes.
+2. [**シーン パレット**](../formit-introduction/tool-bars.md)を開き、[+]を 2 回クリックして 2 つのシーンを追加します。
 
-3. Rename the current scene **Southwest Ground** and rename the other scene **Aerial**. ![](./images/5e322aa6-efc9-4555-8b73-5788021960c7.png)
+3. 現在のシーンの名前を「**Southwest Ground**」に変更し、別のシーンの名前を「**Aerial**」に変更します。![](images/5e322aa6-efc9-4555-8b73-5788021960c7.png)
 
-4. Move the camera to an aerial view (see image below).
+4. カメラを移動して、次の図のように上空からのビュー(Aerial)を表示します。
 
-5. Click on the Aerial scene once and then click the update icon. ![](./images/a6828bff-7d6e-4cc9-b00c-1db0de96d0b1.png) This will set the scene to current camera viewpoint. ![](./images/a3529158-1a4a-4fac-a8ee-6f60247bce4d.png)
+5. この上空からのシーンを 1 回クリックし、次に更新アイコンをクリックします。![](images/a6828bff-7d6e-4cc9-b00c-1db0de96d0b1.png) この操作により、カメラの現在の視点にシーンが固定されます。![](images/a3529158-1a4a-4fac-a8ee-6f60247bce4d.png)
 
-6. The Scene properties checkboxes determine whether or not changes to those settings will affect the scene. <br> ![](./images/777d3348-1472-4afb-a617-54bffb9b947f.png)
+6. [シーンのプロパティ]チェックボックスを使用して、シーンの設定に対する変更をシーンに反映させるかどうかを指定します。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/777d3348-1472-4afb-a617-54bffb9b947f.png)
 
-7. Press the Play button ![](./images/7badfc11-b64f-45d4-b0d3-0433ce8c5b79.png) to cycle through the scenes.
+7. 再生ボタン ![](images/7badfc11-b64f-45d4-b0d3-0433ce8c5b79.png) をクリックして、各シーンを順に再生します。
 
-#### Visual Settings
+#### 表示設定
 
-1. Select the **Southwest Ground** scene by double-clicking it.
+1. **[Southwest Ground]**シーンをダブルクリックして選択します。
 
-2. Select the [**Visual Styles Palette**](../formit-introduction/tool-bars.md). ![](./images/aa340156-b0de-4132-8b24-98fe2533dbfe.png)
+2. [**表示スタイル パレット**](../formit-introduction/tool-bars.md)を選択します。![](images/aa340156-b0de-4132-8b24-98fe2533dbfe.png)
 
-3. The check boxes determine the visibility of the items. The sliders allow you to affect the weight of normal edges and silhouette edges.
+3. 各チェックボックスを使用して、各項目の表示スタイルを設定します。スライダを使用すると、通常のエッジとシルエット エッジの比率を変更することができます。
 
-4. Turn **Monotone Surfaces** on. This strips all colors from the scene. See image below. ![](./images/74f592a0-e7b3-4168-a6e9-2d1f69453f54.png)
+4. **[単色のサーフェス]**オプションを有効にします。 この操作により、シーン内のすべての項目が単色で表示されます。以下の図を参照してください。![](images/74f592a0-e7b3-4168-a6e9-2d1f69453f54.png)
 
+#### イメージを書き出す
 
-#### Export Image
+表示スタイルを使用して 1 つまたは複数のシーンを作成したら、そのシーンの高解像度イメージを書き出すことができます。
 
-Once you have you one or more scenes with visual styles to your liking, you can export high resolution images of the scene.
+1. **[ファイル] > [書き出し] ([Ctrl]+[E])をクリックします**。
 
-1. **Click File &gt; Export (Ctrl + E)**.
+2. リストで**[イメージとして]**を選択します。
 
-2. Choose **As Image** from the list.
+3. [プリセット]リストで目的の解像度を選択するか、カスタムのピクセル サイズを入力します。![](images/03b98705-6f53-4856-aea7-a48a906b981f.png)
 
-3. Choose the resolution from the Preset list or enter a custom pixel dimension. ![](./images/03b98705-6f53-4856-aea7-a48a906b981f.png)

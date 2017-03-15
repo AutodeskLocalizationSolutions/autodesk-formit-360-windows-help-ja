@@ -1,53 +1,54 @@
-### 3D Sketching
+
+
+### 3D スケッチ
 
 ---
 
-> Placing primitives is fine, but the real power of FormIt lies in the ability to sketch in 3D. You got a sneak peak at the power of the snapping system when you used the Rotate tool in the last exercise. If you did not complete the last section, download and open the **farnsworth01.axm** file from the [FormIt Primer folder](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442).
+> プリミティブの配置機能は便利な機能ですが、FormIt の真価は 3D でのスケッチ機能にあります。直前の演習では、回転ツールを使用した場合のスナップ機能の仕組みについて確認しました。直線の演習がまだ完了していない場合は、[FormIt Primer フォルダ](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442)から **farnsworth01.axm** ファイルをダウンロードして演習を完了してください。
 
 ---
 
-#### 3D Sketching with Lines
+#### 線分ツールを使用して 3D スケッチを行う
 
-1. To group the image plan in order to prevent sketched lines from "sticking", select the plane by double-clicking it, right-click and choose **Group \(G\)**.
+1. イメージの作業面をグループ化してスケッチ線の重なりを防ぐには、作業面をダブルクリックして選択し、**[グループ(G)]**を右クリックして選択します。
 
-2. Click the **Pencil** to open the [**Sketching Toolbar**](../formit-introduction/tool-bars.md).
+2. **鉛筆アイコン**をクリックして[**スケッチ ツールバー**](../formit-introduction/tool-bars.md)を開きます。
 
-3. Choose the [**Line tool (L)**](../tool-library/line-tool.md).
+3. [**[線分ツール(L)]**](../tool-library/line-tool.md)を選択します。
 
-4. You can immediately start to sketch using straight lines segments. Click [**here**](../tool-library/world-axes.md) to learn more about 3D sketching with World Axes.
+4. 線分セグメントを使用して、すぐにスケッチを開始することができます。ワールド軸を使用して 3D スケッチを行う方法については、[**ここ**](../tool-library/world-axes.md)をクリックしてください。
 
-5. Start with creating a rectangle on the ground plane.
+5. 地盤面上に長方形を作成します。
 
-  * Click **Settings &gt; turn off Snap to Grid \(S G\)**.
-  * With the **Line tool**, click on **one corner** of the imported sketch. **Drag** along to define one edge of the upper terrace.
-  * Use the **Tab key** to input exact dimensions. Make the long side **77'-4 1\8"** and the short side **28'-8**".
-  * Press **Esc**. You are back in Select mode. You can now select the top face and immediately pull the volume up **12'-2"**. ![](./images/bba6b093-7e05-4a92-b792-1601dbf26ecc.png)
+* [設定]をクリックして**[グリッドにスナップ(S G)]**を無効にします。
+* **線分ツール**を使用して、読み込んだスケッチの**いずれかの角**をクリックします。 次に、その角を**ドラッグ**して、上部テラスの一方の端を作成します。
+* 正確な寸法を入力するには、**[Tab]キー**を使用します。 長辺の値を **77'-4 1\8"**、短辺の値を **28'-8"** に設定します。
+* **Esc** キーを押します。 選択モードに戻ります。この状態で上面を選択し、**12'-2"** まで引き上げて体積を増やします。![](images/bba6b093-7e05-4a92-b792-1601dbf26ecc.png)
 
+**注**: *赤と緑の軸によって 90 度が保たれます。 グリッドに対して特定の角度を描画すると紫色のガイド線が表示され、現在の線分に対して 90 度を保つことができます。*
 
-**Note**: _The red and green axes keep you at 90 degrees. When you draw at an angle to the grid, a purple guide will allow you to stay 90 degrees relative to your current line._
-
-#### Optional – 3D Sketching with the Rest of the Tools
-
----
-
-> The following exercise is not critical to finishing the house. It will allow you to experiment with some of the other 3D Sketching tools.
+#### オプション – その他のツールを使用して 3D スケッチを行う
 
 ---
 
-1. In the [**Action Tool Bar**](../formit-introduction/tool-bars.md), select the Sketch tools (pencil icon) and select the [**Arc tool**](../tool-library/arc-tool.md).
-  * Click to define the first and second point similar to the Line tool.
-  * The third drag defines the radius of the circle that defines the arc.
-  * **Note:** _As with all sketching tools, you can use the red snap points to snap to other objects in the scene._
+> 次の演習は、家屋の仕上げを行うために必須の演習ではありませんが、その他の 3D スケッチツールの仕組みを理解することができます。
 
-3. Select the [**Spline Tool**](../tool-library/spline-tool.md).
+---
 
-  * Click to define any number of points to draw a spline
+1. [**アクション ツールバー**](../formit-introduction/tool-bars.md)でスケッチ ツール(鉛筆アイコン)を選択し、[**円弧ツール**](../tool-library/arc-tool.md)を選択します。
 
-4. Select the [**Circle Tool**](../tool-library/circle-tool.md).
+* 線分ツールの場合と同様に、最初の点と 2 番目の点をクリック操作で指定します。
+* 次に、上記手順で作成した直線をドラッグして、円の半径を指定します。これが円弧になります。
+* **注:** *赤いスナップを使用して、シーン内の他のオブジェクトにスナップすることができます。これは、すべてのスケッチ ツールに共通する機能です。*
 
-  * Hover and Click to define the center point of the circle.
-  * Click and drag to define the radius of the circle.
+2. [**スプライン ツール**](../tool-library/spline-tool.md)を選択します。
 
+* クリック操作により、スプラインを描画するための点を必要な数だけ指定することができます。
 
-**Important Note:** _When you snap any curve segment to any other point, line or object face/edge/point, the objects will now be joined as one object. To avoid this, we will use Groups in a later exercise._
+3. [**円ツール**](../tool-library/circle-tool.md)を選択します。
+
+* 円の上にカーソルを移動し、クリック操作で円の中心点を指定します。
+* 円をクリックし、ドラッグ操作で円の半径を指定します。
+
+**重要:** *他の点、線分、オブジェクトの面/端/点に曲線セグメントをスナップすると、スナップ元とスナップ先が 1 つのオブジェクトとして結合されます。 これを避けるには、グループ機能を使用します。この機能については、これ以降の演習で説明します。*
 

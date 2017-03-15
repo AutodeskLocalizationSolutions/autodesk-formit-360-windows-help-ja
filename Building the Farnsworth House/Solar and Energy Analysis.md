@@ -1,31 +1,36 @@
-### Solar and Energy Analysis
----
-> If you did not complete the last section, click the File &gt; Open and choose **farnsworth07.axm** from the FormIt Primer folder.
+
+
+### 日照解析とエネルギー解析
 
 ---
 
-#### Shadows
+> 直前の演習がまだ完了していない場合は、[ファイル] > [開く]をクリックし、FormIt Primer フォルダで **farnsworth07.axm** を選択して演習を完了してください。
 
-Setting the location allows you to accurately analyze how sun shadows ill fall and affect your design – allowing you to make better decisions.
+---
 
-1. Click on the Sun Icon in the [**Action Tool Bar**](../formit-introduction/tool-bars.md) and check **Display Shadows**.
+#### 影
 
-2. Move the Day and Hour sliders to see the shadow effects. Note in this house how the covered terrace is shaded during the hottest hours of the summer months – surely not an accident but a matter of design! <br> ![](./images/3bdf0e2a-0ad4-4aac-b6fc-5e789643b0d6.png)
+プロジェクトの位置を設定すると、影の動きや影がプロジェクトに与える影響を正確に解析できるため、適切な判断を行うことができるようになります。
 
-#### Solar Analysis
+1. [**アクション ツールバー**](../formit-introduction/tool-bars.md)の太陽アイコンをクリックして**[影を表示]**を選択します。
 
-1. From the same [**Sun menu**](../formit-introduction/tool-bars.md), click **Solar Analysis**.
+2. 日付スライダと時刻スライダを移動して、影の影響を確認します。この建物では、夏の最も暑い時間帯に、ひさしの付いたテラス部分が日陰になることがわかります。もちろん、これは偶然ではなく、そうした設計になっているためです。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/3bdf0e2a-0ad4-4aac-b6fc-5e789643b0d6.png)
 
-2. Click on the surfaces you want to study and click **Analyze**.
+#### 日照解析
 
-3. The Month Peak setting displays the peak solar insolation in BTU/sq. ft for that month. Hover your cursor over an analyzed surface to get a specific value. ![](./images/460060a0-ea3b-4095-af45-40045811be22.png)
+1. 同じ[**太陽メニュー**](../formit-introduction/tool-bars.md)で**[日照解析]**をクリックします。
 
-4. The Year Cumulative setting displays the cumulative energy for the entire year in KwH/sq. meter. This is useful for gaining an early idea of solar PV potential for surfaces of your design. ![](./images/a9f61dfb-dfc9-4751-b145-b131a69c53cf.png)
+2. 調査するサーフェスをクリックして**[解析]**をクリックします。
 
-### Energy Analysis with Insight 360
+3. [月のピーク]設定に、その月のピーク時の日射量が BTU/sq ft の単位で表示されます。解析済みのサーフェスにマウス カーソルを置くと、そのサーフェスに対する日射量の値が表示されます。![](images/460060a0-ea3b-4095-af45-40045811be22.png)
 
-1. Hide all of the layers except for Massing.
+4. [累積年]設定には、年間の累積エネルギー量が KwH/sq. m の単位で表示されます。 これは、設計のサーフェスでどの程度の太陽光発電が可能かを大まかに判断する場合に便利です。![](images/a9f61dfb-dfc9-4751-b145-b131a69c53cf.png)
 
-2. Click the **Insight 360 &gt; Generate Insight button.** Any visible masses with levels applied will be sent to Insight 360 for Analysis. <br> ![](./images/deac2672-e76b-478c-8e12-fc7b270e59f2.png)
+### Insight 360 を使用したエネルギー解析
 
-3. Once the analysis is complete – click View Insight to view the results. Optionally, you can visit the website directly at [http://insight360.autodesk.com](http://insight360.autodesk.com/).
+1. マスを除くすべてのレイヤを非表示にします。
+
+2. **[Insight 360] > [Insight を作成]ボタン**をクリックします。レベルが適用されたすべての表示可能なマスが解析用として Insight 360 に送信されます。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/deac2672-e76b-478c-8e12-fc7b270e59f2.png)
+
+3. 解析が完了したら、[Insight を表示]をクリックして解析結果を確認します。必要に応じて、Insight 360 の Web サイト([http://insight360.autodesk.com](http://insight360.autodesk.com/))に直接アクセスすることもできます。
+

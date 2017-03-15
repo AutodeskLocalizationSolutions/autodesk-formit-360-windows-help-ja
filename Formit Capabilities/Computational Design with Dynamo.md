@@ -1,7 +1,10 @@
-### Computational Design with Dyanmo
----
-> The FormIt 360 and [Dynamo Studio](http://www.autodesk.com/products/dynamo-studio/overview) connection enables customized parametric content to be placed and manipulated in FormIt. This enables you to review numerous design options quickly before making design decisions. Check out the [Dynamo Studio Primer](http://dynamoprimer.com/en/) for a comprehensive guide to visual programming. 
 
+
+### Dynamo を使用した計算設計
+
+---
+
+> FormIt 360 を [Dynamo Studio](http://www.autodesk.com/products/dynamo-studio/overview) に接続することにより、カスタマイズしたパラメトリック コンテンツを FormIt 内に配置して操作することができます。 これにより、さまざまな設計オプションを短時間で確認しながら、詳細に関する各種の要素を設定できるようになります。ビジュアル プログラミングの詳しい説明については、[Dynamo Studio Primer](http://dynamoprimer.com/jp/)を参照してください。
 
 ---
 <video width="100%" controls>

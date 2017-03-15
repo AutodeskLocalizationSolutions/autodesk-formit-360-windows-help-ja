@@ -1,16 +1,14 @@
-### Copy Object
+
+
+### オブジェクトのコピー
+
 ---
 
-There are three ways to copy an object. First select the object by **double-clicking** on it:
+オブジェクトをコピーするには、次に示す 3 つの方法があります。 最初に、コピーするオブジェクトを**ダブルクリック**して選択します。
 
-1. Right click the cube. Select the [**Copy tool**](/tool-library/tilt-array-copy-and-paste.md) in the Context Menu and then right click anywhere else in the scene and choose the **Paste button**. (This also works with **CTRL + C **or** V**).
+1. 立方体を右クリックします。 次に、コンテキスト メニューの[**コピー ツール**](tool-library/tilt-array-copy-and-paste.md)を選択し、シーン内の任意の場所(ただし、コピーするオブジェクトを除く)を右クリックして**[貼り付け]ボタン**を選択します。 **[Ctrl]+[C]**または**[Ctrl]+[V]**キーを使用した場合も、同じ動作になります。
 
-2. Hold the **CTRL key down** and start dragging the object - a copy will be available to drag.
+2. **[Ctrl]キーを押したまま**、オブジェクトをドラッグします。この方法により、ドラッグ操作でオブジェクトをコピーすることができます。
 
-3. **Right click** the cube and select the [**Array tool**](/tool-library/tilt-array-copy-and-paste.md). You can select the number of copies and whether the next drag will define the distance between two objects or the total length of the array. <br> ![](./images/c587fa65-069f-4d8c-910e-f19c8cf36aff.png) 
-
-
-
-
-
+3. 立方体を**右クリック**し、[**配列ツール**](tool-library/tilt-array-copy-and-paste.md)を選択します。 配列ツールを使用して、コピーの数を選択することができます。また、次のドラッグ操作で、2 つのオブジェクト間の距離を指定するかどうか、配列全体の長さを指定するかどうかを選択することもできます。 <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/c587fa65-069f-4d8c-910e-f19c8cf36aff.png)
 

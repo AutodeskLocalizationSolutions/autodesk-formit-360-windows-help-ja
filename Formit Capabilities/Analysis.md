@@ -1,28 +1,35 @@
-### Analysis
----
-> Start a BIM workflow by evaluating the performance of elements from the beginning of the design process. 
+
+
+### 解析
 
 ---
 
+> BIM ワークフローでは、最初に、設計プロセスの初期段階から各種要素のパフォーマンスを評価します。
+
+---
 <video width="100%" controls>
   <source src="Videos/Analysis.mp4" type="video/mp4">
 </video>
 
-#### Solar Analysis
-With a *** FormIt 360 Pro subscription *** you have can visualize the sun's impact on your building:
-- Specify relevant faces to be analyzed for solar impact.
-- Visualize results in seconds within the app canvas.
-- Hover your mouse or input point to see specific calculated values of solar impact.
-- Choose to view results as a monthly glazing study, or as a yearly solar panel feasibility study.
-- [Purchase a Pro subscription now.](http://www.autodesk.com/products/formit-360/try-buy)
+#### 日照解析
 
-#### Energy Analysis with Insight 360
+*** FormIt 360 Pro Subscription*** を購入している場合は、建物に対する日照の影響を視覚的に確認することができます。
 
-With a ** FormIt 360 Pro subscription ** you have access to Energy Analysis with **Insight 360:**
-- Analyze early stage design models with Green Building Studio's analysis engine.
-- Connect to a dashboard view of your results of your design, and compare options.
-- Adjust the Energy Analysis factor widgets like Window to Wall Ration, Building Orientation, and others.
-- Summarize your building's energy impact with a single number calculated as a bottom line cost per area.
-- Save your Energy Analysis results for future review with clients and other stakeholders.
-- [Learn more about the Insight 360 and FormIt 360 connection.](http://autodesk.typepad.com/bpa/2015/05/release-news-formit-360-pro.html)
-- [Purchase a Pro subscription now.](http://www.autodesk.com/products/formit-360/try-buy)
+* 日照の影響を解析する面を指定します。
+* わずか数秒で、解析結果をアプリケーション キャンバス内で視覚化することができます。
+* マウスを操作したり点を入力することにより、日照の影響の特定の計算値を確認することができます。
+* 解析結果を、ガラスに関する月次調査結果として表示することも、ソーラー パネルの実現可能性に関する年次調査結果として表示することもできます。
+* ぜひ、[Pro Subscription の購入をご検討ください](http://www.autodesk.com/products/formit-360/try-buy)。
+
+#### Insight 360 を使用したエネルギー解析
+
+**FormIt 360 Pro Subscription** を購入している場合は、**Insight 360** を使用してエネルギー解析を実行することができます。
+
+* Green Building Studio の解析エンジンを使用して、ステージ設計モデルを簡単に解析することができます。
+* 設計の解析結果を表示するダッシュボード ビューに接続して、さまざまなオプションを比較することができます。
+* [窓と壁の比率]ウィジェットや[建物の向き]ウィジェットなど、エネルギー解析で使用する各種の要因ウィジェットの調整を行うことができます。
+* 面積あたりの最終的なコストを 1 つの数値として計算することにより、建物に対する日照の影響についての情報を要約して確認することができます。
+* クライアントをはじめとする各関係者による将来的なレビューのために、エネルギー解析の結果を保存することができます。
+* [Insight 360 と FormIt 360 の連携については、こちらを参照してください](http://autodesk.typepad.com/bpa/2015/05/release-news-formit-360-pro.html)。
+* ぜひ、[Pro Subscription の購入をご検討ください](http://www.autodesk.com/products/formit-360/try-buy)。
+

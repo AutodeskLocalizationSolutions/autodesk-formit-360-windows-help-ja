@@ -1,16 +1,20 @@
-### Work Planes
 
-----
-> When you change the world axes in the main sketch, or in a group, a work plane is associated with the X and Y axes. A work plane is a virtual 2-dimensional surface used as the origin for sketching elements. This work plane will stretch out to infinity and provide a surface to sketch on without snapping to elements behind it.
+
+### 作業面
 
 ---
 
-#### Changing Work Planes
+> メイン スケッチまたはグループ内のワールド軸を変更すると、作業面が X 軸および Y 軸に関連付けられます。作業面は、要素をスケッチするための基準として使用される仮想 2 次元サーフェスです。 この作業面は無限に広がり、面に隠れる要素にスナップすることなくスケッチできるサーフェスが提供されます。
 
-After you set the [World Axes](world-axes.md) a light blue plane appears.
+---
 
-Rotate the [World Axes](world-axes.md) to the plane of another object in the sketch. This will align the active work plane to correspond to this face. You can now sketch, place elements, and modify elements relative to the new XY plane, rather than the default ground plane. You can orbit behind or under the grid and work planes to snap and inference to elements behind it
+#### 作業面を変更する
 
-If you do not see the grid lines then you need to turn them on to benefit from work plane based sketching ( ![](images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png) ) > Visual Style > Display Grid or keyboard shortcut: DG)
+[ワールド軸](world-axes.md)を設定すると、ライト ブルーの平面が表示されます。
+
+スケッチ内の別のオブジェクトの平面まで[ワールド軸](world-axes.md)を回転させます。 これにより、アクティブな作業面がこの面に合わせて配置されます。これで、要素をスケッチして配置し、既定の地盤面ではなく、新しい XY 平面を基準に要素を修正することができます。回転させてグリッド(作業面)の後ろ側(下側)を表示し、面に隠れる要素の推定配置点にスナップすることができます。
+
+グリッド ラインが表示されない場合は、作業面を基準にスケッチできるように、表示をオンにする必要があります(![](images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png) > [表示スタイル] > [グリッドを表示]を選択するか、キーボードショートカットの[D]、[G]を使用)。
 
 ![](images/GUID-CCDC46EF-8523-430C-8B6E-074D6D5236E1-low.gif)
+

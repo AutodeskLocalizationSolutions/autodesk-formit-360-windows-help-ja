@@ -1,16 +1,20 @@
-### Line Tool
+
+
+### 線分ツール
 
 ---
-> Draw a lines to divide faces and construct geometry.
+
+> 直線を描画して面を分割し、ジオメトリを作成することができます。
 
 ---
 
-A line can be draw on all the X, Y and Z axis and also on existing geometry. When you're snapped to an axis a colored line will extend beyond the line you are drawing. You can see the length of the line as you draw; to manually a specfic length press **tab** and enter that length. 
+X 軸、Y 軸、Z 軸のすべてで、直線を描画することができます。さらに、既存のジオメトリで描画することもできます。描画した直線をいずれかの軸にスナップすると、その直線の延長線上に色の付いた直線が表示されます。描画中に、直線の長さが表示されます。直線の長さを手動で指定する場合は、**[Tab]キー**を押して長さを入力します。
 
-- X = Red
-- y = Green
-- Z = Blue
+* X 軸 = 赤
+* Y 軸 = 緑
+* Z 軸 = 青
 
-You can see the length of the line as you draw; to manually specify a length press **tab**. 
+描画中に、直線の長さが表示されます。直線の長さを手動で指定するには、**[Tab]キー**を押します。
 
 ![](images/line tool.png)
+

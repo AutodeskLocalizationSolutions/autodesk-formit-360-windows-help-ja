@@ -1,49 +1,54 @@
-### Adding Detail
+
+
+### 詳細の追加
 
 ---
 
-> If you did not complete the last section, download and open the **farnsworth04.axm** file from the [FormIt Primer folder](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442).
+> 直前の演習がまだ完了していない場合は、[FormIt Primer フォルダ](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442)から **farnsworth04.axm** ファイルをダウンロードして演習を完了してください。
 
 ---
 
-#### Door Frames
+#### ドア フレーム
 
-We are going to create a 2" metal frame and mullions around the window glass.
+この演習では、2" のメタル フレームと、窓ガラスを囲むマリオンを作成します。
 
-1. **Hide** the Roof Layer.
+1. 屋根レイヤを**非表示**にします。
 
-2. Use the [**Rectangle tool (R)**](../tool-library/rectangle-tool.md) to draw a surface over the western face of glass.
+2. [**長方形ツール(R)**](../tool-library/rectangle-tool.md)を使用して、窓ガラスの西面の上部にサーフェスを描画します。
 
-3. Use the [**Offset Face tool (OF)**](../tool-library/extrude-cut-and-offset-faces.md) and the **Tab key** to offset another rectangle **2"** towards the interior.
+3. [**オフセット面ツール(OF)**](../tool-library/extrude-cut-and-offset-faces.md)と**[Tab]キー**を使用して、別の長方形を室内の方向に **2"** オフセットします。
 
-4. **Select** and **extrude** the frame 2" towards the interior. ![](./images/24f63252-b1e6-4071-ba24-961269bf4490.png)
+4. フレームを**選択**し、室内の方向に 2" **押し出し**ます。![](images/24f63252-b1e6-4071-ba24-961269bf4490.png)
 
-5. Group and name the assembly **EW Frame**.
+5. アセンブリをグループ化して「**EW Frame**」という名前を付けます。
 
-6. Import and paint the column with the material **Metal &gt; Anodized – Gray**.
+6. マテリアルの**[メタル] > [陽極酸化 – グレー]**を使用して、柱の読み込みとペイントを行います。
 
-7. [**Copy** or **Array**](../tool-library/tilt-array-copy-and-paste.md) the assembly to the eastern side of the building.
+7. 建物の東側にアセンブリを[**コピー**または**配列**](../tool-library/tilt-array-copy-and-paste.md)します。
 
-8. Repeat steps 1-6 for the North and South sides as well.
+8. 建物の北側と南側についても、手順 1 ～ 6 を繰り返します。
 
-#### Create Mullions
+#### マリオンの作成
 
-1. Using the same methods in the previous exercise, create a 2" thick and deep mullion **11'-10 ¾"** from the North West corner. ![](./images/7657c4da-7a46-4b50-9458-d08286f9efa4.png)
+1. 直前の演習と同じ方法で、厚さと奥行きが 2" のマリオン(**11'-10 ¾"**)を、北西のコーナーから作成します。![](images/7657c4da-7a46-4b50-9458-d08286f9efa4.png)
 
-2. Make the mullion the entire height of the glass walls (11'10").
+2. マリオンの高さを、すべてのガラス壁と同じ高さにします(11'-10")。
 
-3. Group and name the assembly **mullion**.
+3. アセンブリをグループ化して「**mullion**」という名前を付けます。
 
-4. Import and paint the column with the material **Metal &gt; Anodized – Gray**.
+4. マテリアルの**[メタル] > [陽極酸化 – グレー]**を使用して、柱の読み込みとペイントを行います。
 
-5. [**Array**](../tool-library/tilt-array-copy-and-paste.md) them three times at a distance of **11'**.
+5. **11'** の距離で、マリオンの[**配列**](../tool-library/tilt-array-copy-and-paste.md)を 3 回繰り返します。
 
-6. Use the **hover + Tab key** to select all mullion instances and **copy** to the south side of the wall.
+6. **[Tab]キーを押しながらマウスを操作して**すべてのマリオン インスタンスを選択し、壁の南側に**コピー**します。
 
-#### Create Door
-Using the same methods as in the previous two exercises, create a 3'-6" double door centered in the western wall. ![](./images/a4f7bb20-db89-4638-a3ad-4ae05c63d351.png)
+#### ドアの作成
+
+直前の 2 つの演習と同じ方法で、西側の壁の中心に 3'-6" の二重ドアを作成します。![](images/a4f7bb20-db89-4638-a3ad-4ae05c63d351.png)
 
 ---
-####Related Topics:
 
-[**Cover Sweep Loft**](../tool-library/cover-sweep-loft.md)
+#### 関連項目
+
+[**かぶり、スイープ、ロフト**](../tool-library/cover-sweep-loft.md)
+

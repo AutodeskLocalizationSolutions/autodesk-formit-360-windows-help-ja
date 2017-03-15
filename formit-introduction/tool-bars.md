@@ -1,37 +1,42 @@
-### Tool Bars
+
+
+### ツールバー
+
 ---
+
 ![](images/Interface.PNG)
 
 ---
 
-#### Action Tool Bar
-The Action Tool Bar is found at the top of the screen. The tools here will help you create, edit, and share content.
-![](images/action tool bar.PNG)
+#### アクション ツールバー
 
-1. Gallery Menu
-2. Undo Redo
-3. Selection and Measurement
-4. Creation and Modification Tools
-5. Location and Analysis Tools
-6. User Identity
+アクション バーは、画面の上部に表示されます。アクション バーの各種ツールを使用して、コンテンツの作成、編集、共有を行うことができます。![](images/action tool bar.PNG)
 
-#### Navigation Tool Bar
+1. ギャラリー メニュー
+2. 元に戻す/やり直し
+3. 選択/計測
+4. 作成/修正ツール
+5. 位置/解析ツール
+6. ユーザ ID
+#### ナビゲーション ツールバー
+
 ![](images/Navigation Tool Bar.PNG)
 
-1. Scene View Modes
-2. 3D View Tools
-3. Zoom Tools
+1. シーン ビュー モード
+2. 3D ビュー ツール
+3. ズーム ツール
+#### パレット バー
 
-#### Palette Bar
 ![](images/palette tool bar.PNG)
 
-1. Properties
-2. Materials
-3. Layers
-4. Scenes
-5. Visual Styles
-6. Group Tree
+1. プロパティ
+2. マテリアル
+3. レイヤ
+4. シーン
+5. 表示スタイル
+6. グループ ツリー
 7. Dynamo
-8. Levels
-9. Content Library
-10. Undo Manager
+8. レベル
+9. コンテンツ ライブラリ
+10. Undo マネージャ
+

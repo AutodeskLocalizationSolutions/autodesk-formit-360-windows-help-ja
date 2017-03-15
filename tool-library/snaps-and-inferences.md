@@ -1,43 +1,47 @@
-### Snaps and Inferences
----
-> To make sketching and modeling easier, use snaps and inference points to accurately create, place, and edit geometry. You can use whatever axis you choose as the axis on which to draw or execute another action, such as extruding a surface.
+
+
+### スナップと推定配置点
 
 ---
 
-**Note:** *See [Keyboard Shortcuts](../Appendix/keyboard-shortcuts.md) for information about how to speed up your use of the software's tools.*
-![](images/GUID-10AC3DDC-0BB3-4C3A-9BA3-4DE37FE97ADF-low.png)
+> スナップと推定配置点を使用すると、スケッチとモデリングを簡単に実行できるだけでなく、ジオメトリの作成、配置、編集も正確に行うことができます。描画を行う軸として、任意の軸を選択して使用することができます。この軸で、サーフェスの押し出しなどの操作を実行することもできます。
 
-#### Snapping
+---
 
-There are several snaps that can aid you while you are sketching and modeling. Snapping to objects is automatically enabled, and you can snap to:
+**注:** *ソフトウェアの各種ツールを使用する場合に便利な[キーボード ショートカット](../Appendix/keyboard-shortcuts.md)に関する情報を参照してください。* ![](images/GUID-10AC3DDC-0BB3-4C3A-9BA3-4DE37FE97ADF-low.png)
 
-* On Edge
-* On Midpoint
-* Endpoints (on vertex)
-* On Face
-* Center of Face
-* On Ground Plane
+#### スナップする
 
-To snap to the grid, you must enable the Snap to Grid toggle from the Settings menu.
+スケッチやモデリングを行う際に、いくつかのスナップを使用することができます。オブジェクトへのスナップは、自動的に有効になります。次に示すスナップ先にスナップすることができます。
 
-#### Inference Points
+* エッジ
+* 中心点
+* 頂点上の端点
+* 面上
+* 面の中心
+* 地盤面
 
-Automatic selection of inference points is always enabled and will help you constrain the movement of geometry.
+グリッドにスナップするには、[設定]メニューの[グリッドにスナップ]をオンにする必要があります。
 
-**Axis:** You can move geometry along the X, Y, or Z axis. The X-axis inference is red, the Y-axis is green, and the Z-axis is blue.
+#### 推定配置点
+
+推定配置点の選択機能は常に有効になっているため、ジオメトリの動作を制限することができます。
+
+**軸:** X 軸、Y 軸、Z 軸に沿ってジオメトリを移動することができます。 X 軸の推定配置点は赤、Y 軸の推定配置点は緑、Z 軸の推定配置点は青で表示されます。
 
 ![](images/GUID-DD1207BA-33C0-46B5-924E-E3B7AD4CBF1F-low.png)
 
-**Axis Locking:** You can lock movement along the X, Y, or Z axis. Hold down the Shift key while on an axis inference, then move your mouse to snap and inference to other elements.
+**軸のロック:** X 軸、Y 軸、Z 軸に沿って動作をロックすることができます。 軸の推定配置点で[Shift]キーを押したまま、マウスを移動して別の要素の推定配置点にスナップします。
 
 ![](images/GUID-004B3D60-83E4-402F-9080-6AA80441FCB3-low.png)
 
-**Parallel:** You can sketch or move geometry parallel to existing elements. Perpendicular inferences are purple. You need to hover your cursor over a line you want to use as a parallel reference.
+**平行:** 既存の要素に対して平行に、ジオメトリのスケッチや移動を行うことができます。 垂直方向の推定配置点は紫色で表示されます。水平方向の参照情報として使用する線にマウス カーソルを置く必要があります。
 
 ![](images/GUID-63C305D6-8313-44A3-94F0-9A84199E2D86-low.png)
 
-**Perpendicular:** You can also draw or move geometry perpendicular to existing elements. Perpendicular inferences are purple. You need to hover your cursor over a line you want to use as a perpendicular reference.
+**垂直:** 既存の要素に対して垂直に、ジオメトリのスケッチや移動を行うこともできます。 垂直方向の推定配置点は紫色で表示されます。垂直方向の参照情報として使用する線にマウス カーソルを置く必要があります。
 
 ![](images/GUID-116D4EA4-F84E-4796-8755-627A1149266B-low.png)
 
-**Extending from a point:** You can also use inferences to extend from a point reference. Hover the mouse over a point you want to use as a reference until the tooltip appears, then use the inference axis that extends from the point.
+**任意の点からの延長:** 推定配置点を使用して、任意の点参照から延長することができます。 参照情報として使用する点にマウス カーソルを置いてツールチップを表示し、その点から伸びる推定軸を使用します。
+

@@ -1,8 +1,12 @@
-### Working with External Data
----
-> Add overlays and images to your designs for a variety of purposes. Ground overlays add additional information to your sketch or provide a schematic to trace over. 
 
-> Download files and content from SketchUp 3D Warehouse and bring them directly into FormIt with full editing capabilities. Also directly import Google Earth topographical files from SketchUp. 
+
+### 外部データを使用する
+
+---
+
+> さまざまな目的に応じて、オーバーレイやイメージを設計に追加することができます。地面オーバーレイを使用して、スケッチに追加情報を追加したり、トレース用の配置図を指定することができます。
+
+> SketchUp 3D Warehouse からファイルとコンテンツをダウンロードし、すべての編集機能が搭載された FormIt にそれらのファイルとコンテンツを直接取り込むことができます。さらに、Google Earth の地形ファイルを SketchUp から直接読み込むこともできます。
 
 ---
 
